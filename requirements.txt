@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+chromadb
+sentence-transformers
+streamlit
+pypdf
+docx2txt
+pymssql
+sqlalchemy
