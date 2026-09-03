@@ -28,7 +28,7 @@ def init_rag():
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=300)
     chunks = text_splitter.split_documents(documents)
     embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    vector_db = Chroma.from_documents(chunks, embeddings, persist_directory="./chroma_db_v2")
+    vector_db = Chroma.from_documents(chunks, embeddings, persist_directory="./chroma_db_v3")
     retriever = vector_db.as_retriever(search_kwargs={"k": 7})
 
     llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0)
