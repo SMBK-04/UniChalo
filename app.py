@@ -31,7 +31,7 @@ def init_rag():
     vector_db = Chroma.from_documents(chunks, embeddings, persist_directory="./chroma_db")
     retriever = vector_db.as_retriever(search_kwargs={"k": 7})
 
-    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
+    llm = ChatGroq(model="groq/compound", temperature=0)
 
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system", "You are the UniChalo AI admission guide. Use the following context to answer the user's question accurately.\n\nContext:\n{context}"),
