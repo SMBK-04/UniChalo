@@ -16,7 +16,7 @@ os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 
 st.set_page_config(page_title="UniChalo AI", page_icon="??")
 st.title("?? UniChalo AI Assistant")
-st.caption("Ask me anything about university admissions! (Powered by Llama 3 & Groq Cloud)")
+st.caption("Ask me anything about university admissions! (Powered by Qwen 3.8 & Groq Cloud)")
 
 @st.cache_resource
 def init_rag():
@@ -34,7 +34,7 @@ def init_rag():
     llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0)
 
     qa_prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are the UniChalo AI admission guide. Use the following context to answer the user's question accurately.\n\nContext:\n{context}"),
+        ("system", "You are the UniChalo AI admission guide, a comprehensive assistant for MULTIPLE universities (including NED, FAST, IBA, KU, Dow, etc.). NEVER claim to be exclusively for one university. Use the following context to answer the user's question accurately. If the context doesn't contain the answer, just say you don't know.\n\nContext:\n{context}"),
         MessagesPlaceholder("chat_history"),
         ("human", "{input}")
     ])
@@ -84,3 +84,4 @@ if prompt := st.chat_input("Ask a question..."):
         )
         st.write(response)
         st.session_state.messages.append({"role": "assistant", "content": response})
+
