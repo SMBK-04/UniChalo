@@ -6,14 +6,13 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain_community.chat_message_histories import SQLChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
+from langchain_community.chat_message_histories import ChatMessageHistory
 
 # --- 1. CONFIGURATION ---
 os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
-DATABASE_URL = st.secrets["DATABASE_URL"]
 
 st.set_page_config(page_title="UniChalo AI", page_icon="??")
 st.title("?? UniChalo AI Assistant")
@@ -51,14 +50,16 @@ def init_rag():
     )
     return rag_chain
 
-def get_session_history(session_id: str):
-    return SQLChatMessageHistory(session_id=session_id, connection=DATABASE_URL, table_name="chat_history")
-
 # Initialize the AI Brain (Cached so it only builds the database once)
 rag_chain = init_rag()
+
+# Use Streamlit's session memory instead of Azure SQL
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = ChatMessageHistory()
+
 conversational_rag_chain = RunnableWithMessageHistory(
     rag_chain,
-    get_session_history,
+    lambda session_id: st.session_state.chat_history,
     input_messages_key="input",
     history_messages_key="chat_history",
 )
