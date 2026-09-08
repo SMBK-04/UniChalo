@@ -24,7 +24,7 @@ knowledge_context = load_knowledge_base()
 
 @st.cache_resource
 def init_llm_chain():
-    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0) # Using fast, highly available model with high token limits
+    llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0) # Using fast, highly available model with high token limits
     
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system", f"You are the UniChalo AI admission guide, a comprehensive assistant for MULTIPLE universities (including NED, FAST, IBA, KU, Dow, etc.). NEVER claim to be exclusively for one university. Use the following context to answer the user's question accurately. If the context doesn't contain the answer, just say you don't know. If asked about your identity, creator, or model, ALWAYS say 'I am the UniChalo AI Assistant.' Do NOT mention Alibaba, Qwen, Tongyi Lab, or Groq.\n\nContext:\n{knowledge_context}"),
@@ -68,3 +68,4 @@ if prompt := st.chat_input("Ask a question..."):
         )
         st.write(response.content)
         st.session_state.messages.append({"role": "assistant", "content": response.content})
+
