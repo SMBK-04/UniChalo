@@ -1,0 +1,2832 @@
+dawood.md 2026-04-08
+1 / 5
+DUET Chatbot Knowledge Base (2025-2026)
+1. Institution Overview
+Dawood University of Engineering and Technology, commonly known as DUET, is a public sector university
+located in Karachi, Sindh, Pakistan. It was originally established in 1962 and was elevated to full university
+status in 2013. The university serves as a major engineering and technology institution in Sindh. Students can
+apply online through the official admission portal at admissions.duet.edu.pk.
+2. Campuses
+DUET operates across three campuses:
+Jinnah Campus: The main campus where all B.E. Engineering programs are held.
+Gulberg Town Campus: Houses the Faculty of Information and Computing Science, where all B.S.
+Computing and Applied Sciences programs are conducted.
+Iqbal Campus: Located in Gulshan-e-Iqbal and is dedicated to the Bachelor of Architecture program.
+Students applying for B.Arch. must be aware that they will be studying at a completely separate campus
+from engineering students.
+3. Programs Offered
+3.1 B.E. Engineering Programs
+All B.E. programs are four-year undergraduate degrees offered at the Jinnah Campus. These programs are PEC
+accredited. To be eligible, students must have a minimum of 60% aggregate in HSC Pre-Engineering or hold a
+DAE in a relevant technology.
+B.E. Chemical Engineering: Focuses on process engineering and industrial chemistry.
+B.E. Electronic Engineering: Covers circuitry, embedded systems, and signal processing.
+B.E. Industrial Engineering and Management: Integrates engineering principles with business
+management to optimize complex processes.
+B.E. Metallurgy and Materials Engineering: Focuses on the development and processing of materials.
+B.E. Energy and Environment Engineering: Addresses sustainable energy solutions and
+environmental conservation.
+B.E. Petroleum and Gas Engineering: Tailored for the upstream and downstream oil and gas sector.
+B.E. Computer System Engineering: Bridges the gap between hardware and software engineering.
+IMPORTANT: B.E. Telecommunication Engineering has been permanently discontinued and is NOT
+available from Fall-2025 onwards. The chatbot must never suggest or recommend this program to any
+applicant under any circumstances.
+3.2 B.S. Computing and Applied Sciences Programs
+All B.S. programs are four-year undergraduate degrees offered at the Gulberg Town Campus.
+
+dawood.md 2026-04-08
+2 / 5
+Eligibility: Students must have a minimum of 50% aggregate in HSC. Accepted HSC groups include
+Pre-Engineering, General Science, and Pre-Medical.
+Pre-Medical Condition: Students who come from a Pre-Medical background and are admitted to any
+Computing program must complete 6 credit hours of deficiency Mathematics courses during their first
+year at the university.
+Available Programs: B.S. Computer Science, B.S. Artificial Intelligence, B.S. Cyber Security, B.S. Data
+Science, B.S. Mathematics, and B.S. Business Information Systems.
+IMPORTANT: B.S. Chemistry was not offered in the most recent intake. The chatbot must not confirm
+its availability. If a student asks about B.S. Chemistry, they should be directed to contact the admissions
+office directly for the latest status.
+3.3 Bachelor of Architecture
+The Bachelor of Architecture, known as B.Arch., is a five-year undergraduate program.
+It is housed exclusively at the Iqbal Campus in Gulshan-e-Iqbal. This is a separate campus from the
+Jinnah Campus and Gulberg Campus. Students must factor in the campus location when making their
+decision.
+3.4 Postgraduate Programs
+DUET offers postgraduate programs including M.E., M.S., and Ph.D. degrees across engineering and
+computing disciplines.
+The most recent admission announced was for Spring 2026.
+The university has HEC-approved Ph.D. supervisors, particularly in Chemical Engineering and Electronic
+Engineering, facilitating advanced research.
+4. Admission Process
+4.1 How Merit is Calculated — CPN Formula
+DUET uses a Composite Percentage Number, known as CPN, to rank all applicants and determine merit.
+The Formula: Entry Test score carries 60% weightage, HSC result carries 30% weightage, and SSC or
+Matriculation result carries 10% weightage. So the CPN equals 0.6 multiplied by the Entry Test
+percentage, plus 0.3 multiplied by the HSC percentage, plus 0.1 multiplied by the SSC percentage.
+Minimum Requirement: The minimum CPN required to be eligible for admission is 50. Any applicant
+who scores below a CPN of 50 is completely disqualified and cannot be admitted regardless of how
+many seats are available.
+4.2 Entry Test
+The entry test consists of 100 multiple choice questions. There is no negative marking, meaning students are
+not penalized for wrong answers.
+Pre-Engineering Group: 25 questions from English, 10 from Analytical Reasoning, 15 from General
+Knowledge, 20 from Physics, 10 from Chemistry, and 20 from Mathematics.
+Computer Science Group: 25 questions from English, 10 from Analytical Reasoning, 15 from General
+Knowledge, 20 from Physics, 10 from Mathematics, and 20 from Computer Science. Note that
+
+dawood.md 2026-04-08
+3 / 5
+Chemistry is replaced by Computer Science in this group.
+4.3 Application Details
+Students must apply online through admissions.duet.edu.pk.
+The application processing fee is PKR 3,000.
+Required documents include HSC and Matric marksheets, CNIC or B-Form, and Domicile Certificate also
+known as Form-C.
+4.4 Admission Categories
+There are two admission categories:
+Open Merit: The standard category where students are ranked purely based on their CPN.
+Self-Finance: Available for students who fall below the open merit cutoff. Under this category students
+pay a higher one-time fee to secure admission, in addition to the regular semester fees.
+5. Fee Structure
+5.1 One-Time Charges for Local Merit Students
+When a local merit student gets admitted, they pay a total of PKR 10,000 in one-time charges.
+Admission Fee: PKR 5,000 (Non-refundable).
+Security Deposit: PKR 5,000 (Refundable upon leaving the university).
+5.2 Per Semester Fees for Local Merit Students
+Every semester, a local merit student pays the following:
+Semester Registration Fee: PKR 6,000
+Examination Fee: PKR 2,000
+Library Fee: PKR 1,000
+Laboratory Fee: PKR 1,000
+Games Fee: PKR 1,000
+Development Fee: PKR 2,000
+Tuition Fee: PKR 3,700 per credit hour. Since a standard semester load is between 15 and 18 credit
+hours, the tuition fee per semester typically ranges from PKR 55,500 to PKR 66,600.
+Transport: Optional charge of PKR 7,000 per semester for students who use the university bus service.
+5.3 Fees for Foreign Students
+Foreign or international students have a separate fee structure.
+One-time admission fee: USD 250.
+Per Semester: USD 150 as a registration fee and USD 70 per credit hour as tuition.
+5.4 Self-Finance Fees
+
+dawood.md 2026-04-08
+4 / 5
+Self-finance fees are paid one time in addition to regular semester fees. Students may pay this amount in up
+to four equal installments if they submit a written request to the Convener of the Admission Committee.
+PKR 600,000 (+ taxes) / USD 4,000 (+ taxes): For B.E. Electronic Engineering and B.E. Computer
+System Engineering.
+PKR 400,000 (+ taxes) / USD 3,000 (+ taxes): For B.E. Chemical Engineering, B.E. Industrial
+Engineering and Management, B.Arch., B.S. Computer Science, B.S. Artificial Intelligence, and B.S. Cyber
+Security.
+PKR 300,000 (+ taxes) / USD 2,500 (+ taxes): For B.E. Petroleum and Gas Engineering, B.E. Metallurgy
+and Materials Engineering, and B.E. Energy and Environment Engineering.
+6. Refund Policy
+DUET follows the HEC National Fee Refund Policy. The Admission Fee of PKR 5,000 is absolutely non-
+refundable under any circumstances, no matter when the student withdraws.
+Up to 7th or 10th day (First week): 100% refund of tuition and semester fees.
+Up to 15th day (Second week): 50% refund.
+After the 15th day: No refund at all.
+Conditional Applicants: For students who were waiting for their results and applied conditionally,
+100% of the semester fee is refunded within 3 weeks of the announcement of the result if they do not
+qualify for final admission.
+7. Scholarships
+DUET supports approximately 40% of its student body through various scholarships and financial aid
+programs.
+Internal scholarships: Awarded to top position holders based on academic merit.
+External scholarships: Include Benazir Undergraduate Scholarship, HEC Need-Based Scholarship, PEEF
+(Punjab Educational Endowment Fund), SEEF (Sindh Educational Endowment Fund), Balochistan
+Endowment Fund, Kamran Educational Foundation scholarship, and Dawood Foundation scholarship.
+Application requirements: Students must provide supporting documentation including salary slips of
+parents/guardians, utility bills, and death certificates in the case of orphans. This ensures transparency
+in the selection process.
+8. Transport
+DUET operates a subsidized point-to-point bus service across Karachi. The transport fee is PKR 7,000 per
+semester and is completely optional. There are 10 routes covering various parts of the city:
+Point 01: Northern Bypass -> Maymar Mor -> Sachal Mor -> Maskan -> Nipa -> Hassan Square ->
+University.
+Point 02: Sachal Goth -> Safoora Goth -> Mosmiyat -> Nipa.
+Point 03: Korangi (stops at 89, Babar Market, Korangi No. 5) -> Qayumabad -> FTC -> Khudad Colony.
+Point 04: Gulshan-e-Hadeed -> Malir Halt -> Shahrah-e-Faisal -> Jail Chowrangi.
+
+dawood.md 2026-04-08
+5 / 5
+Point 05: Bhitaiabad -> Kamran Chowrangi -> Johar Mor.
+Point 06: Naval Chowrangi -> Baldia Town -> Banaras -> Board Office.
+Point 07: Steel Town -> Malir 15 -> Drigh Road -> Aga Khan Hospital.
+Point 08: Shireen Jinnah Colony -> Boat Basin -> Cantt Station -> Gurumandir.
+Point 09: 4K Chowrangi -> Nagan Chowrangi -> Karimabad -> Liaquatabad.
+Point 10: Orangi Town (Islam Chowrangi) -> Board Office -> Water Pump -> Teen Hatti.
+9. Hostel
+DUET provides hostel accommodation with an annual fee of PKR 121,000.
+This is broken down into PKR 77,000 for accommodation and PKR 44,000 for mess charges.
+The fee can be paid in installments.
+The university is currently revamping the Iqbal Campus to expand student accommodation capacity as
+part of a strategic expansion plan.
+10. Critical Rules The Chatbot Must Always Follow
+B.E. Telecommunication Engineering is discontinued and must never be suggested or mentioned as an
+available option to any student for Fall-2025 or any future session.
+B.S. Chemistry is not confirmed to be available in the current intake. Do not tell students it is available.
+Always redirect them to the admissions office.
+Any student with a CPN below 50 is ineligible for admission. This rule has no exceptions regardless of
+seat availability or any other factor.
+The admission fee of PKR 5,000 is non-refundable. This must be clearly communicated whenever fees or
+refunds are discussed.
+Self-finance fees are always charged on top of regular semester fees. Never quote only the self-finance
+amount without mentioning that semester fees are additional.
+Pre-Medical students who get admitted to any B.S. Computing program must complete 6 credit hours
+of deficiency Mathematics in their first year. Always mention this when a Pre-Medical student asks
+about BS programs.
+B.Arch. students study at the Iqbal Campus in Gulshan-e-Iqbal which is a completely separate campus
+from the Jinnah Campus. Always clarify this when a student asks about the Architecture program.
+
+dow.md 2026-04-08
+1 / 5
+Overview & History
+Dow University of Health Sciences (DUHS) is a public sector medical and health sciences university located in
+Karachi, Sindh, Pakistan. Established in December 2003 by the Government of Sindh, it incorporated the
+historic Dow Medical College (DMC), founded in 1945. It is named after Dr. Ruth K.M. Pfau.
+Motto: "To Heal | To Educate | To Discover."
+Alumni: Maintains a global network of over 17,000 healthcare professionals.
+Recognition and Rankings
+HEC Status: Fully recognized and ranked among the top three medical universities in Pakistan by the
+Higher Education Commission (HEC).
+Medical Council: All medical and dental programs strictly adhere to the regulations set by the Pakistan
+Medical Commission (PMC), formerly PM&DC.
+Hospital Affiliations: Affiliated with Civil Hospital Karachi and operates its own teaching hospitals,
+including Dow University Hospital at Ojha Campus.
+Campus Locations
+Dow Medical College (DMC) Campus
+Location: Baba-e-Urdu Road in central Karachi.
+Facilities: Houses the original Dow Medical College and the Institute of Business and Health
+Management (IBHM), which runs the EMBA program on weekends.
+Ojha Campus
+Location: Ojha area of Karachi.
+Facilities: The larger, modern hub. Houses Dow University Hospital, School of Postgraduate Studies,
+Dow College of Pharmacy (DCOP), Dow Institute of Medical Technology (DIMT), Dow Institute of
+Cardiology (DIC), Dow College of Biotechnology (DCOB), School of Public Health, and student hostels.
+IBHM runs BBA/MBA programs here.
+Undergraduate Programs
+Medicine & Dentistry
+MBBS: Five-year program (10 semesters) with integrated clinical training. Offered at DMC and Dow
+International Medical College (DIMC).
+BDS: Offered at Dow Dental College (DDC), Dow International Dental College (DIDC), and Dr. Ishrat ul
+Ebad Khan Institute of Oral Health Sciences (DIKIOHS).
+BS and Pharmacy Programs
+
+dow.md 2026-04-08
+2 / 5
+Pharm-D: Five-year professional degree at DCOP (morning and self-finance evening).
+Doctor of Physical Therapy (DPT): Five-year program with clinical exposure.
+BS Nursing: Four-year program for male and female students.
+BS Biotechnology: Four-year program at DCOB.
+BS Medical Technology: Four-year program at DIMT (includes a Nuclear Medicine specialization).
+BS Optometry and Visual Sciences: Four-year program at DIMT.
+BS Cardiovascular Technology: Four-year program at DIC.
+Other 4-Year BS Programs: Forensic Sciences, Radiologic Technology, Dental Care Professionals, Public
+Health, Psychology, and Nutrition and Food Sciences.
+Business Programs
+BBA: Two-year and four-year programs at IBHM (Ojha Campus).
+BS Accounting and Finance (BSAF): Four-year program at IBHM.
+Postgraduate and PhD Programs
+Master's & Business Programs
+MBA: Two-year program at IBHM (morning/evening at Ojha Campus).
+Executive MBA (EMBA): Two-year weekend program at DMC Campus.
+Master of Dental Surgery (MDS): Postgraduate dental specialization.
+Master of Health Professions Education (MHPE): Master's in health education.
+Master of Public Health (MPH): Offered through the School of Public Health.
+MS Programs (Research-based): Management Sciences, Advanced Practice Therapy (MSAPT),
+Biomedical Engineering (MSBE), and Master of Science in Nursing (MSN).
+PhD & MPhil Programs
+Offerings: Various disciplines, including a PhD in Pharmacology (Pharmaceutical Sciences) taking 3 to 8
+years.
+Eligibility: Minimum CGPA of 3.0 and passing the university's qualifying test or an HEC-recognized GAT
+Subject examination.
+Admission Eligibility Criteria
+Medical and Dental (MBBS & BDS)
+Public Sector Seats (DMC, DDC): Minimum 60% in HSSC Pre-Medical (or IBCC-certified A-Levels).
+Valid MDCAT score meeting PMC requirements. Domicile and PRC of Sindh province are mandatory.
+Dow International Medical College (DIMC): Minimum 65% in FSc/HSSC Pre-Medical. Minimum 60%
+score on the National MDCAT.
+Allied Health & BS Programs
+Requirement: Minimum 60% marks in HSSC Pre-Medical or equivalent.
+Merit Listing: Must score at least 50% in both FSc and the DUHS entry test.
+
+dow.md 2026-04-08
+3 / 5
+Business & Postgraduate Programs
+MBA: 16 years of education with a minimum of 50% marks.
+General Master's: Minimum CGPA of 2.5 or 60% marks in the relevant undergraduate degree.
+Entry Tests
+National MDCAT (For MBBS & BDS)
+Format: Administered by IBA Sukkur in Sindh. 200 MCQs in 150 minutes (Biology, Chemistry, Physics,
+English, Logical Reasoning). No negative marking.
+Minimum Passing Marks: 65% (130/200) for MBBS; 55% (110/200) for BDS.
+Merit Formula: 10% SSC, 40% HSSC, 50% MDCAT score.
+DUHS Internal Entry Test
+For Allied Health/BS Programs: Administered at Ojha Campus. Minimum passing mark is 50% (except
+Pharm-D, which requires 25%). Merit formula is 50% FSc marks and 50% DUHS test score.
+For Business Programs: Evaluates quantitative and verbal skills. Minimum passing score is 50%.
+Application Procedure & Deadlines
+Step-by-Step Process
+1. Online Only: Apply exclusively through admissions.duhs.edu.pk or admission-duhs.effii.app. Physical
+forms are not accepted.
+2. Account Creation: Create a portal account, fill in details, select program/category, upload documents,
+and pay the fee online.
+3. MDCAT Registration: MBBS/BDS applicants must also register separately with the PMC/UHS portal.
+4. Internal Tests: Pharm-D, DPT, and BS applicants apply directly on the DUHS portal; test details follow
+via the website.
+Deadlines (2025-26 Session)
+MBBS/BDS: November 17, 2025.
+Pharm-D, DPT, BS Biotechnology: December 13, 2025.
+Note: Deadlines are hard limits. Monitor the website for yearly updates.
+Required Documents
+Filled online application form.
+HSSC (or A-Level) and SSC (or O-Level) transcripts. (IBCC equivalence required for O/A-Levels).
+CNIC or B-Form copy.
+Passport-sized photographs.
+MDCAT or DUHS entry test result slip.
+
+dow.md 2026-04-08
+4 / 5
+Original Permanent Residence Certificate (PRC) and Domicile (Mandatory for public sector
+medical/dental seats).
+Undergraduate degree and official transcripts (For postgraduate applicants only).
+Fee Structure
+Specific Program Fees (Estimates)
+BS Medical Technology: 45,000 PKR admission fee; 150,000 PKR annual tuition. First-year total (with
+transport) is approx. 217,500 PKR.
+MBA: 35,000 PKR admission fee; 93,929 PKR semester tuition.
+PhD Programs: 35,000 PKR admission fee; 122,452 PKR semester tuition.
+MBBS at DIMC (Self-Finance/Overseas): Approx. 1,000,000 PKR annual fee (excluding
+hostel/transport).
+Application & Processing Fees
+DUHS Application Fee: 2,500 PKR (non-refundable, paid online).
+MDCAT Registration Fee: 8,000 PKR (non-refundable, paid separately to PMC/IBA Sukkur).
+Scholarships and Financial Aid
+DUHS Merit Scholarship: Based on strong academic and entry test performance.
+Ehsaas Scholarship: Federal initiative that can cover up to 100% of tuition for financially deserving
+students.
+Installments: Not standard for open merit, but severe hardship cases are reviewed case-by-case by the
+financial directorate.
+Refund Policy
+Non-Refundable: The 2,500 PKR application fee and 8,000 PKR MDCAT fee are strictly non-refundable.
+Tuition Refunds: Governed by national HEC guidelines. Partial refunds may be available if enrollment is
+canceled before the semester begins, depending on the academic calendar.
+Facilities & Competitiveness
+Transport: Optional point bus fleet serves various Karachi routes.
+Hostels: Available at Ojha Campus for male and female students (mainly out-of-city/overseas).
+Regulated space; not universally guaranteed. Includes Wi-Fi, security, and mess.
+Other Facilities: Library (separate fee), sports, Dow Day Care, Skill Development Center, Professional
+Development Centre.
+Closing Merit: MBBS general public sector seats typically close around 75.6% aggregate. Top merit
+often exceeds 92.33%.
+
+dow.md 2026-04-08
+5 / 5
+Contact and Online Resources
+Official Website: www.duhs.edu.pk
+Admissions Portals: admissions.duhs.edu.pk | admission-duhs.effii.app
+Email: admissions@duhs.edu.pk
+
+Dow University of Health Sciences (DUHS)
+ Comprehensive Knowledge Base for RAG Training
+ Version: 2025-26 | Verified Against Official DUHS Sources
+SECTION 1: OVERVIEW & HISTORY
+Dow University of Health Sciences (DUHS) is a public sector medical and health sciences university
+located in Karachi, Sindh, Pakistan. The university was formally established in December 2003 by the
+Government of Sindh, incorporating the historic Dow Medical College (DMC), which was originally
+founded in 1945. The university is named in honor of Dr. Ruth K.M. Pfau, a celebrated physician and
+humanitarian.
+DUHS is ranked among the top three medical universities in Pakistan according to the Higher Education
+Commission (HEC). It maintains a global alumni network of over 17,000 healthcare professionals. The
+university's motto is "To Heal | To Educate | To Discover."
+The university is fully recognized and accredited by the Higher Education Commission (HEC) of
+Pakistan. All medical and dental programs strictly adhere to the regulations set by the Pakistan Medical
+Commission (PMC), formerly known as the Pakistan Medical and Dental Council (PM&DC;).
+DUHS is affiliated with Civil Hospital Karachi and operates its own teaching hospitals, including Dow
+University Hospital at Ojha Campus. The university is known for its experienced faculty, advanced
+research infrastructure, and strong clinical training environment.
+SECTION 2: CAMPUS LOCATIONS
+DUHS operates primarily from two main campuses in Karachi, Sindh.
+The first is the historic Dow Medical College (DMC) Campus, located on Baba-e-Urdu Road in central
+Karachi. This campus houses the original Dow Medical College and the Institute of Business and Health
+Management (IBHM), which runs the EMBA program on weekends.
+The second is the Ojha Campus, which is the larger and more modern hub of the university, located in
+the Ojha area of Karachi. It houses Dow University Hospital, the School of Postgraduate Studies, Dow
+College of Pharmacy (DCOP), Dow Institute of Medical Technology (DIMT), Dow Institute of Cardiology
+(DIC), Dow College of Biotechnology (DCOB), the School of Public Health, and the student hostels. The
+IBHM at Ojha Campus runs BBA and MBA programs during morning and evening sessions.
+SECTION 3: UNDERGRADUATE PROGRAMS
+DUHS offers a wide range of undergraduate degree programs across medicine, dentistry, allied health
+sciences, and business.
+
+The flagship medical program is the Bachelor of Medicine and Bachelor of Surgery (MBBS), a five-year
+program divided into ten semesters. It follows an integrated teaching approach combining theoretical
+knowledge with hands-on clinical experience. MBBS is offered at Dow Medical College (DMC) and Dow
+International Medical College (DIMC).
+The Bachelor of Dental Surgery (BDS) is offered at Dow Dental College (DDC), Dow International
+Dental College (DIDC), and the Dr. Ishrat ul Ebad Khan Institute of Oral Health Sciences (DIKIOHS).
+The Doctor of Pharmacy (Pharm-D) is a five-year professional degree offered at Dow College of
+Pharmacy (DCOP) in both morning and self-finance evening programs.
+The Doctor of Physical Therapy (DPT) is a five-year program focused on rehabilitation and
+physiotherapy with practical clinical exposure at DUHS facilities.
+BS Nursing is a four-year undergraduate program offered for both male and female students.
+BS Biotechnology is a four-year program offered at Dow College of Biotechnology (DCOB).
+BS Medical Technology is a four-year program at Dow Institute of Medical Technology (DIMT). A
+separate specialization, BS Medical Technology in Nuclear Medicine, is also offered at DIMT.
+BS Optometry and Visual Sciences is a four-year program at DIMT.
+BS Cardiovascular Technology is a four-year program at Dow Institute of Cardiology (DIC).
+BS Forensic Sciences, BS Radiologic Technology, BS Dental Care Professionals, BS Public Health, BS
+Psychology, and BS Nutrition and Food Sciences are all four-year undergraduate programs offered at
+their respective schools and institutes.
+The Bachelor of Business Administration (BBA) is offered as both a two-year and four-year program at
+IBHM, Ojha Campus. A BS in Accounting and Finance (BSAF) is also offered as a four-year program at
+IBHM.
+SECTION 4: POSTGRADUATE AND PhD PROGRAMS
+DUHS provides comprehensive postgraduate programs through its School of Postgraduate Studies and
+various constituent institutes.
+The Master of Business Administration (MBA) is a two-year program offered at IBHM in morning and
+evening sessions at Ojha Campus. An Executive MBA (EMBA) is a two-year weekend program at DMC
+Campus.
+Master of Dental Surgery (MDS) is a postgraduate dental specialization. Master of Health Professions
+Education (MHPE) is a master's program in health education. Master of Public Health (MPH) is offered
+through the School of Public Health.
+MS in Management Sciences, MS in Advanced Practice Therapy (MSAPT), MS in Biomedical
+Engineering (MSBE), and Master of Science in Nursing (MSN) are research-based master's programs.
+
+MPhil and PhD programs are offered in various disciplines. The PhD in Pharmacology (Pharmaceutical
+Sciences) runs for three to eight years. PhD applicants must hold a minimum CGPA of 3.0 and pass the
+university's qualifying test or an HEC-recognized GAT Subject examination.
+SECTION 5: FACULTIES, DEPARTMENTS & CONSTITUENT COLLEGES
+DUHS is structured across multiple constituent colleges and institutes.
+Dow Medical College (DMC), established in 1945 on Baba-e-Urdu Road, is the flagship medical college
+offering MBBS.
+Dow International Medical College (DIMC), established in 2007, admits 150 MBBS students annually,
+primarily catering to overseas Pakistanis and local Karachi-domicile students.
+Dow Dental College (DDC), Dow International Dental College (DIDC), and Dr. Ishrat ul Ebad Khan
+Institute of Oral Health Sciences (DIKIOHS) offer the BDS program.
+Dow College of Pharmacy (DCOP) offers Pharm-D. Dow College of Biotechnology (DCOB) offers BS
+Biotechnology.
+Dow Institute of Medical Technology (DIMT) offers BS Medical Technology, BS Optometry and Visual
+Sciences, BS Radiologic Technology, and BS Medical Technology in Nuclear Medicine.
+Dow Institute of Cardiology (DIC) offers BS Cardiovascular Technology.
+School of Public Health offers BS Public Health and MPH. School of Dental Care Professionals offers
+BS Dental Care Professionals. School of Postgraduate Studies manages all master's and doctoral
+programs.
+Institute of Business and Health Management (IBHM) offers BBA, BSAF, MBA, and EMBA programs.
+Dr. Abdul Qadeer Khan Institute of Behavioral Sciences is associated with BS Psychology and
+behavioral health programs.
+Dow Institute of Biological, Biochemical and Pharmaceutical Sciences (IBBPS) serves as a CRO and
+clinical trial research site. Dow Institute for Advanced Biological and Animal Research (DIABAR)
+supports advanced biological research. The Centre for Education and Training in Clinical Research
+(CETCR) supports clinical research training.
+SECTION 6: ADMISSION ELIGIBILITY CRITERIA
+Eligibility requirements at DUHS vary by program level and type.
+For MBBS and BDS at public sector seats (DMC, DDC), applicants must have passed HSSC
+Pre-Medical or an equivalent such as A-Levels (IBCC-certified) with a minimum of 60% marks, as per
+PMC rules. A valid MDCAT score meeting PMC requirements is mandatory. Domicile and Permanent
+Residence Certificate (PRC) of Sindh province are mandatory for public sector seats.
+
+For Dow International Medical College (DIMC), the minimum FSc marks requirement is 65% in HSSC
+Pre-Medical or equivalent, and a minimum 60% score on the National MDCAT is required.
+For allied health programs (BS Nursing, BS Medical Technology, BS Cardiovascular Technology, BS
+Radiologic Technology, BS Optometry, BS Forensic Sciences, BS Dental Care Professionals, BS Public
+Health, BS Psychology, BS Nutrition, DPT, and Pharm-D), applicants must have a minimum of 60%
+marks in HSSC Pre-Medical or equivalent. Candidates must score at least 50% in both FSc and the
+DUHS entry test to be eligible for merit listing.
+For the MBA, applicants need 16 years of education with a minimum of 50% marks. For general
+Master's programs, a minimum CGPA of 2.5 or 60% marks in the relevant undergraduate degree is
+required. PhD applicants require a minimum CGPA of 3.0.
+SECTION 7: ENTRY TESTS
+An entry test is mandatory for all degree programs at DUHS. No exemptions are granted.
+For MBBS and BDS, the National MDCAT (Medical and Dental College Admission Test) is required. In
+Sindh, IBA Sukkur administers the MDCAT on behalf of the PMC. It is held once annually, typically in
+September or October. The MDCAT covers Biology, Chemistry, Physics, English, and Logical
+Reasoning. It consists of 200 MCQs to be completed in 150 minutes. There is no negative marking.
+The minimum MDCAT score for MBBS eligibility is 65% (130 out of 200 marks). The minimum MDCAT
+score for BDS eligibility is 55% (110 out of 200 marks).
+For allied health programs including BS Nursing, BS Medical Technology, BS Cardiovascular
+Technology, BS Radiologic Technology, BS Optometry, BS Forensic Sciences, DPT, and Pharm-D,
+DUHS administers its own internal DUHS Entry Test at Ojha Campus. The minimum passing mark for
+most BS programs is 50%. For Pharm-D specifically, the minimum passing mark in the DUHS entry test
+is 25%.
+For business programs (BBA, MBA) at IBHM, the DUHS Entry Test evaluates quantitative and verbal
+skills. The minimum passing score for the MBA entry test is 50%.
+The merit formula for BS programs is 50% FSc marks and 50% DUHS entry test score. For MBBS and
+BDS, merit is based on SSC marks at 10%, HSSC marks at 40%, and MDCAT score at 50%. The final
+aggregate is rounded to four decimal places.
+SECTION 8: APPLICATION PROCEDURE
+The entire admission process at DUHS is conducted online through the official admissions portal at
+admissions.duhs.edu.pk or admission-duhs.effii.app. Physical application forms are not accepted.
+Applicants must create an account on the portal, fill in personal and academic details, select the desired
+program and seat category, upload required documents, and pay the application fee online.
+
+For MBBS and BDS, applicants must also register separately with the PMC/UHS portal for the national
+MDCAT process.
+For Pharm-D, DPT, and BS programs, applications are submitted directly on the DUHS portal. Entry test
+details are communicated through the DUHS website after application.
+SECTION 9: REQUIRED DOCUMENTS
+A complete application must include the filled online application form, HSSC or A-Level transcripts, SSC
+or O-Level transcripts, CNIC or B-Form copy, passport-sized photographs, and MDCAT or DUHS entry
+test result slip.
+A-Level applicants must provide an IBCC equivalence certificate for both O-Level and A-Level
+qualifications.
+For public sector medical and dental seats, an original Permanent Residence Certificate (PRC) and
+domicile certificate from the tagged districts of Sindh province are mandatory.
+For postgraduate programs, additional documents include the undergraduate degree certificate and
+official transcripts.
+SECTION 10: ADMISSION DEADLINES
+Application deadlines vary by program and intake session. Deadlines are hard limits — applications
+submitted after the cutoff are explicitly rejected.
+For MBBS and BDS in the 2025-26 session, the application deadline was November 17, 2025. For
+Pharm-D, DPT, and BS Biotechnology, the window for the 2025-26 session closed on December 13,
+2025. Postgraduate master's program deadlines are announced separately per intake.
+Students must monitor the official DUHS website (duhs.edu.pk) and the admissions portal for updated
+deadline announcements each academic year.
+SECTION 11: CLOSING MERIT AND COMPETITIVENESS
+Securing a seat at DUHS is highly competitive, especially for MBBS and BDS.
+For the MBBS program at DUHS in the Karachi division for 2025-26, top merit candidates secured
+aggregates exceeding 92.33%. The closing cut-off for general public sector seats in MBBS typically
+hovers around 75.6% aggregate.
+Seats are divided by category: open merit, reserved seats for interior Sindh divisions (Sukkur, Shaheed
+Benazirabad, Mirpurkhas, Larkana, Hyderabad), and self-finance seats. DUHS also reserves a limited
+number of seats for students with Punjab domicile under the provincial quota system.
+No marks are deducted for extra attempts in FSc, provided the student passed Matriculation within the
+last two years.
+
+SECTION 12: FEE STRUCTURE
+Fee structures at DUHS are categorized by program and academic level.
+For BS Medical Technology: admission fee is 45,000 PKR and annual tuition fee is 150,000 PKR, with
+additional library and student activity charges. With transport, the total first-year cost is approximately
+217,500 PKR.
+For MBA: admission fee is 35,000 PKR and semester tuition fee is 93,929 PKR.
+For PhD programs: admission fee is 35,000 PKR and semester tuition fee is 122,452 PKR.
+For MBBS at Dow International Medical College (self-finance/overseas): annual fee is approximately
+1,000,000 PKR excluding hostel and transport.
+The DUHS application fee is 2,500 PKR (non-refundable, paid online only). The national MDCAT
+registration fee, paid separately to PMC/IBA Sukkur, is 8,000 PKR (also non-refundable).
+Fee structures may be revised by the university at any time during the course of study.
+SECTION 13: SCHOLARSHIPS AND FINANCIAL AID
+DUHS offers merit-based and need-based financial aid programs.
+The DUHS Merit Scholarship is awarded based on strong academic performance in qualifying
+examinations and entry test results.
+The Ehsaas Scholarship, a federal government initiative available at DUHS, can cover up to 100% of
+tuition fees for financially deserving students.
+Students apply through the university's financial aid office, which evaluates both economic hardship and
+academic merit.
+Formal installment plans are not standard policy for open merit seats but may be reviewed
+case-by-case by the financial directorate for severe hardship cases.
+SECTION 14: REFUND POLICY
+DUHS enforces strict refund policies. The 2,500 PKR DUHS application fee and the 8,000 PKR MDCAT
+registration fee are entirely non-refundable under any circumstances.
+Tuition fee refunds upon seat cancellation are governed by national higher education guidelines, which
+dictate timeline cut-offs for partial or full recovery. Students cancelling enrollment before the semester
+begins may be eligible for partial refunds depending on timing relative to the academic calendar.
+SECTION 15: FACILITIES
+
+DUHS maintains a dedicated point bus fleet serving various routes across Karachi. Transport is optional
+and published in separate with-transport and without-transport fee structures.
+Hostel facilities at Ojha Campus are available separately for male and female students. Rooms are
+furnished with Wi-Fi, security, and mess services. Accommodation is primarily for students from outside
+Karachi or overseas. Space is regulated and not universally guaranteed for all candidates.
+The DUHS library provides access to academic journals, reference books, and digital databases, with a
+separate annual library fee.
+DUHS also offers sports and recreational facilities, a Dow Day Care center, the Dow Skill Development
+Center, a Professional Development Centre, and an Emerging Leadership Academy.
+SECTION 16: RECOGNITION AND RANKINGS
+DUHS is fully recognized by the Higher Education Commission (HEC) of Pakistan and regulated by the
+Pakistan Medical Commission (PMC) for medical and dental programs.
+The university is ranked among the top three medical universities in Pakistan by the HEC. As a public
+sector institution, DUHS programs are subsidized compared to private universities.
+DUHS holds over 70 years of legacy in medical education through its founding institution, Dow Medical
+College, established in 1945.
+SECTION 17: CONTACT AND ONLINE RESOURCES
+Official university website: www.duhs.edu.pk
+Official admissions portal: admissions.duhs.edu.pk
+Online application portal: admission-duhs.effii.app
+Admissions queries email: admissions@duhs.edu.pk
+The DUHS Journal of Health Sciences is the university's official academic publication.
+Students are advised to always refer to the official DUHS website and admissions portal for the most
+current information, as deadlines, fees, and seat availability change each academic year.
+
+Fast 
+ 
+1 / 5 
+ 
+Institutional Identity and History 
+(From Official FAST National University Website — nu.edu.pk and Wikipedia — National 
+University of Computer and Emerging Sciences) 
+ 
+The National University of Computer and Emerging Sciences, commonly known as FAST 
+National University or FAST-NUCES, is a private federally chartered research university with 
+multiple campuses across Pakistan. The university is formally recognized by the Higher 
+Education Commission of Pakistan and is consistently ranked among the leading 
+institutions of higher education in the country. It holds the top position in computer 
+sciences and information technology as ranked by the Higher Education Commission of 
+Pakistan in 2020. 
+ 
+History: The university traces its roots to the Foundation for Advancement of Science and 
+Technology, known as FAST, which established four first-rate computer science institutes in 
+Karachi, Lahore, Islamabad, and Peshawar. These institutes individually and collectively 
+built strong leadership positions through enlightened management and a highly qualified 
+faculty. The National University of Computer and Emerging Sciences was formally 
+established and inaugurated by President Pervez Musharraf as a Federally Chartered 
+University in July 2000, under Ordinance Number Twenty-Three of 2000, dated July 1, 2000. 
+It holds the distinction of being the first multi-campus private sector university established 
+under a Federal Charter in Pakistan. 
+ 
+Recognition and Rankings: The university is fully recognized and accredited by the Higher 
+Education Commission of Pakistan. It is a member of the Association of Commonwealth 
+Universities of the United Kingdom. The university has active research wings at its 
+Islamabad, Lahore, Peshawar, and Karachi campuses, which are nationally and 
+internationally recognized and conduct research with direct impact on the social, 
+economic, and technological needs of Pakistan.
+
+Campus Infrastructure 
+(From Official FAST Karachi Campus Website — khi.nu.edu.pk and Wikipedia — National 
+University of Computer and Emerging Sciences) 
+ 
+The university currently operates six campuses located in Karachi, Lahore, Islamabad, 
+Peshawar, Multan, and Chiniot-Faisalabad. These campuses collectively provide world-
+class educational environments and recreational facilities to over eleven thousand 
+students, of whom approximately one quarter are female, supported by over five hundred 
+skilled faculty members. 
+ 
+Karachi Main Campus: The primary campus is located at Street 4, Sector 17-D on the 
+National Highway in Shah Latif Town, Karachi. This campus operates from 8 am to 4 pm, 
+five days a week. Parking is available for students arriving by car or motorcycle, situated 
+just outside the main gate. 
+ 
+Karachi City Campus: A secondary campus is located at 22-G, Block 6, PECHS, Shahrah-e-
+Faisal, Karachi. This campus remains open until 9 pm and operates six days a week, 
+catering to students who attend evening programs and professionals seeking continuing 
+education. 
+ 
+University Headquarters: The central administrative headquarters of the university is 
+located at FAST House, Rohtas Road, G-9/4, Islamabad. 
+ 
+Academic Programs — Karachi Campus 
+(From Official FAST Karachi Campus Website — khi.nu.edu.pk and Official FAST National 
+University Degree Programs Page — nu.edu.pk/Degree-Programs) 
+ 
+The Karachi campus is organized into seven academic departments: the Department of 
+Computer Science, the Department of Cyber Security, the Department of Artificial 
+Intelligence, the Department of Software Engineering, the Department of Electrical
+
+Engineering, the Department of Management Sciences, and the Department of Sciences 
+and Humanities. 
+ 
+Bachelor of Science Undergraduate Programs 
+ 
+The following Bachelor of Science programs are offered at the Karachi campus: Bachelor of 
+Science in Computer Science, Bachelor of Science in Artificial Intelligence, Bachelor of 
+Science in Data Science, Bachelor of Science in Cyber Security, Bachelor of Science in 
+Software Engineering, Bachelor of Science in Electrical Engineering, Bachelor of Science in 
+Business Analytics, and Bachelor of Science in Financial Technologies. 
+ 
+All undergraduate programs are four-year programs divided into eight semesters. 
+ 
+Master of Science Graduate Programs 
+ 
+The following Master of Science programs are offered at the Karachi campus: Master of 
+Science in Computer Science, Master of Science in Software Engineering, Master of 
+Science in Artificial Intelligence, Master of Science in Data Science, Master of Science in 
+Cyber Security, Master of Science in Software Project Management, Master of Science in 
+Electrical Engineering, and Master of Science in Business Analytics. 
+ 
+Doctoral Programs — PhD 
+ 
+The following PhD programs are offered at the Karachi campus: Doctor of Philosophy in 
+Computer Science, Doctor of Philosophy in Software Engineering, and Doctor of 
+Philosophy in Electrical Engineering. 
+ 
+Admission Policy (2025-2026) 
+(From Official FAST National University Eligibility Criteria Page — 
+nu.edu.pk/Admissions/EligibilityCriteria, updated August 6, 2025)
+
+Merit Formula 
+ 
+FAST National University uses a clearly defined merit formula that differs by program 
+category. There is no interview for undergraduate admissions at any campus. 
+ 
+For Bachelor of Science Engineering programs including Civil Engineering, Electrical 
+Engineering, and Computer Engineering, the merit score is calculated as 33% weightage on 
+the admission test score, 50% weightage on the Higher Secondary Certificate or equivalent 
+result, and 17% weightage on the Secondary School Certificate or equivalent result. The 
+minimum eligibility requirement is 60% marks in both the Secondary School Certificate 
+and the Higher Secondary Certificate. The required subjects at Higher Secondary 
+Certificate level are Pre-Engineering covering Chemistry, Mathematics, and Physics, or the 
+Intermediate Certificate of Science covering Computer Science, Mathematics, and 
+Physics. 
+ 
+For Bachelor of Science Computing programs including Computer Science, Artificial 
+Intelligence, Cyber Security, Data Science, and Software Engineering, the merit score is 
+calculated as 50% weightage on the admission test score, 40% weightage on the Higher 
+Secondary Certificate or equivalent result, and 10% weightage on the Secondary School 
+Certificate or equivalent result. The minimum eligibility requirement is 60% marks in the 
+Secondary School Certificate and 50% marks in the Higher Secondary Certificate. 
+Mathematics must have been studied at the Higher Secondary Certificate level. Pre-
+Medical students who have passed additional Mathematics, or who are awaiting results for 
+additional Mathematics, are also eligible to apply for Computing programs. 
+ 
+For Bachelor of Business Administration and Business-related Bachelor of Science 
+programs including Business Analytics, Accounting and Finance, and Financial Technology, 
+the merit formula is identical to the Computing programs: 50% admission test, 40% Higher 
+Secondary Certificate, and 10% Secondary School Certificate. The minimum requirement 
+is 60% in Secondary School Certificate and 50% in Higher Secondary Certificate. There is 
+no specific subject restriction at the Higher Secondary Certificate level for business 
+programs.
+
+For Master of Science programs in Computing and Engineering disciplines, the selection is 
+based on 50% weightage on the admission test score and 50% weightage on the 
+undergraduate academic record. Eligibility requires a Bachelor degree from a recognized 
+university after 16 years of education with a minimum of 60% marks or a Cumulative Grade 
+Point Average of at least 2.00 on a scale of 4.00. 
+ 
+For Master of Science in Mathematics and Applied Linguistics, the minimum eligibility 
+threshold is reduced to 55% marks or a Cumulative Grade Point Average of at least 2.00 on 
+a 4.00 scale. 
+ 
+For Master of Science in Software Project Management, in addition to academic 
+qualifications, applicants must possess a minimum of two years of professional 
+experience related to Software Development Lifecycle activities as a software engineer or 
+equivalent role in a software development firm. 
+ 
+For PhD programs, eligibility requires an 18-year education pathway with a Master of 
+Science, Master of Philosophy, or equivalent degree with a minimum of 60% marks or a 
+Cumulative Grade Point Average of at least 3.00 on a 4.00 scale. PhD merit is determined 
+as 60% weightage on the admission test score and 40% weightage on a panel interview 
+assessing research potential. The minimum passing mark in the admission test is 60%. 
+Students with a Cumulative Grade Point Average between 2.90 and 3.00, or between 58% 
+and 60% in the annual system, may be provisionally admitted subject to successful 
+completion of a Zero Semester, during which they must study nine additional credit hours 
+of Level 7 courses and achieve a minimum Grade Point Average of 3.00. For the PhD in 
+Management Sciences, selection criteria are based on performance in the Graduate 
+Management Admission Test or an equivalent test, an interview and assessment by the 
+Doctoral Admissions Committee, and submission of a Research Proposal. 
+ 
+Entry Test Details 
+(From Official FAST National University Admissions Page — nu.edu.pk/Admissions and 
+pmdc.org.pk — NUCES Admission Guide 2025)
+
+The FAST National University Admission Test, known as FNET, is a Computer-Based Test 
+administered at all FAST campuses nationwide. For Fall 2025, the test was held starting 
+July 20, 2025. The test evaluates problem-solving, quantitative reasoning, analytical, and 
+English language skills. A minimum passing score, which varies by campus and program, is 
+required for admission. 
+ 
+Applicants for undergraduate programs must select only one of three test options: the FAST 
+National University Admission Test, the Scholastic Assessment Test, or the National Testing 
+Service National Aptitude Test under the relevant category. Note that National Testing 
+Service tests from specific universities are not acceptable. For postgraduate programs, 
+applicants may choose between the FAST National University test, the Graduate Record 
+Examination General, or the National Testing Service Graduate Assessment Test under the 
+relevant General or Subject category. 
+ 
+Weightage of Higher Secondary Certificate marks is calculated based on whichever is 
+applicable at the time of merit compilation: marks obtained in Higher Secondary 
+Certificate Parts One and Two combined, marks obtained in Part One only if Part Two 
+results are not yet available, or the percentage provided in the Inter Board Committee of 
+Chairmen equivalence certificate for Advanced Level or Ordinary Level qualifications. 
+Students who have taken the Higher Secondary Certificate or an equivalent examination 
+and are still awaiting their result are also eligible to apply. 
+ 
+Any incorrect or false information submitted by the applicant, or any attempt to conceal 
+information, will lead to disqualification from admission. 
+ 
+Fee Structure (2025-2026) 
+(From Official FAST National University Fee Structure Page — 
+nu.edu.pk/Admissions/FeeStructure, effective from Fall 2025 semester) 
+ 
+One-Time Charges at Admission
+
+An Admission Fee of Rs. 30,000 is payable once at the time of admission. If a graduate of 
+FAST National University is admitted to a higher degree program at the same university, the 
+admission fee is not charged again. A refundable Security Deposit of Rs. 20,000 is also 
+payable at the time of admission. The Applicant Admission Fee, which is the fee for 
+submitting an application, is Rs. 3,000 and is non-refundable. 
+ 
+Tuition Fee — Effective Fall 2025 
+ 
+Tuition fee is payable in full before the start of each semester and is subject to annual 
+revision. For the academic year 2025 to 2026, the tuition fee per credit hour is Rs. 11,000 
+and this rate applies equally to Bachelor of Science and Bachelor of Business 
+Administration programs, Master of Business Administration and Master of Science 
+programs, and PhD programs. A standard semester carries approximately 15 to 18 credit 
+hours, making the approximate tuition fee per semester between Rs. 165,000 and Rs. 
+198,000 for all program levels. 
+ 
+Student Activities Fund 
+ 
+A Student Activities Fund contribution of Rs. 2,500 per semester is collected from every 
+student effective from Fall 2024. This fund supports co-curricular and extra-curricular 
+activities across all campuses. 
+ 
+Miscellaneous Fees 
+ 
+Additional fees that may apply include an Additional Transcript fee of Rs. 300, a Campus 
+Transfer fee of Rs. 5,000, a Temporary Campus Transfer fee of Rs. 2,000, a Degree 
+Correction fee of Rs. 2,000, a Semester Freeze Fee of Rs. 2,000 if applied within two weeks 
+of the start of classes, a Late Registration or Freeze or Course Withdrawal fee of Rs. 5,000 if 
+applied after the second week, a Retake Sessional Exam fee of Rs. 2,000 per course, a 
+Retake Final Exam fee of Rs. 2,000 per course or lab, a Paper Rechecking fee of Rs. 500 per 
+course or lab, and an Issuance of Certificate or Letter fee of Rs. 300. All miscellaneous fees 
+are non-refundable.
+
+Late Payment Fine 
+ 
+A late payment fine is charged on the entire outstanding fee, including current dues and 
+arrears, at a rate of Re. 1.00 per day for every one thousand rupees of outstanding balance. 
+Student registration is suspended two months after the due date for payment if the fee 
+remains unpaid. 
+ 
+Payment Methods 
+ 
+Fee can be paid by printing the challan form and depositing at any Faysal Bank branch, or 
+via the Kuickpay payment gateway using internet banking, mobile banking, or an ATM. 
+Kuickpay is supported by Allied Bank, Askari Bank, Bank Al Habib, Bank Alfalah, Bank 
+Islami, Bank of Punjab, Dubai Islamic Bank, Faysal Bank, First Women Bank, Habib Metro 
+Bank, Habib Bank Limited, JS Bank, MCB Bank, MCB Islamic Bank, Meezan Bank, National 
+Bank, and several others. Easypaisa and JazzCash can also be used for payment via 
+Kuickpay, subject to applicable transaction limits. 
+ 
+Refund Policy 
+(From Official FAST National University Fee Structure Page — 
+nu.edu.pk/Admissions/FeeStructure, revised guidelines effective December 20, 2024) 
+ 
+The Admission Fee is non-refundable under all circumstances. The Security Deposit is 
+refundable at the time of completion of the degree or at the closing of the admission. 
+Tuition fee is refunded in accordance with the revised Higher Education Commission 
+guidelines, effective from December 20, 2024. 
+ 
+Up to the 10th day of commencement of classes: 100% fee refund. 
+Up to the 15th day of commencement of classes: 80% fee refund. 
+Up to the 20th day of commencement of classes: 60% fee refund.
+
+Up to the 30th day of commencement of classes: 50% fee refund. 
+From the 31st day onwards of commencement of classes: No refund. 
+ 
+Days for the purpose of refund calculation are counted including both working days and 
+holidays. If a student’s admission is cancelled after declaration of results due to failure to 
+meet eligibility requirements, the fee refund is calculated from the date of their result 
+announcement. 
+ 
+Scholarships and Financial Assistance 
+(From Official FAST National University Scholarships Page — 
+nu.edu.pk/Admissions/Scholarship) 
+ 
+Merit Scholarships for Bachelor Students: A merit scholarship is awarded to the top three 
+position holders of each Examination Board in the year of admission. Scholarship is also 
+offered to the top three position holders in the FAST National University admission merit 
+list. This scholarship covers the full tuition fee for four years of uninterrupted studies with a 
+full course load. Continuation of the merit scholarship requires maintaining a semester 
+Grade Point Average of 3.0 or higher. 
+ 
+Higher Education Commission Scholarships for Master of Science and PhD Students: The 
+Higher Education Commission provides liberal scholarships to students enrolled in Master 
+of Science and PhD programs at this university. The scholarship covers tuition fee, a 
+monthly stipend, and a book allowance. 
+ 
+Punjab Educational Endowment Fund Scholarships: The Government of Punjab offers 42 
+scholarships to financially needy students holding a Punjab domicile. Newly admitted 
+students at any campus of the university can apply. The scholarship covers four years of 
+undergraduate studies and covers a portion of the tuition fee. The remaining tuition fee may 
+be provided by the university as an interest-free loan.
+
+Sindh Government Endowment Board Scholarships: The Sindh Government offers 
+scholarships to students at the Karachi campus on a need-cum-merit basis for both 
+undergraduate and graduate studies. The scholarship covers full tuition fee for the entire 
+duration of the program and is renewable every year. The quota allocates 60% of seats to 
+students from rural Sindh and the remaining 40% to students from urban areas. 
+Approximately 25 new scholarships are offered every year under this scheme. 
+ 
+Khyber Pakhtunkhwa Education Foundation Scholarship: The Khyber Pakhtunkhwa 
+Government offers scholarships to students at the Peshawar campus on a need-cum-merit 
+basis for Bachelor of Science and Master of Science programs, with equal male to female 
+ratio. The scholarship covers 80% of the tuition fee for the entire duration of the program. 
+ 
+Baluchistan Government Endowment Board Scholarship: The Baluchistan Government 
+offers scholarships to students at the Karachi campus on a need-cum-merit basis for both 
+undergraduate and graduate studies. The scholarship covers full tuition fee for the entire 
+duration of the program, renewable every year. 
+ 
+Old Students Association of FAST Financial Assistance — Study Loan: The Old Students 
+Association of FAST arranges financial assistance for students who cannot afford to pay 
+their full fee. 
+ 
+Interest-Free Study Loan: FAST National University provides interest-free, need-based 
+study loans for bright and financially deserving students. This assistance is limited to 
+tuition fee only and is subject to renewal every semester based on academic performance. 
+The loan is discontinued if the student’s Cumulative Grade Point Average falls below the 
+minimum specified to avoid academic warning. Loan recipients must take a full course 
+load each semester. Repayment begins three months after graduation or upon 
+employment, whichever is earlier, and the total amount must be repaid within four years of 
+graduation. Students sign a contract allowing future employers to deduct loan repayments 
+at source. 
+ 
+Other Community Scholarships: Additional scholarships are available from Memon 
+Community, Bohra Community, INFAQ Foundation, Agha Khan Foundation, and other
+
+community-based organizations. For the Karachi campus specifically, the Alumni 
+Association, the Hindu Community, and the Agha Khan Foundation also provide 
+scholarships in limited numbers. 
+ 
+Bank Loans: Several banks including PICIC Commercial Bank, NIB Bank, Bank Alfalah, 
+Bank Islami, and MCB offer student loans to enrolled students. 
+ 
+Chief Minister’s Honhaar Undergraduate Scholarship Program is also available for eligible 
+students at the Karachi campus, as announced in October 2024. 
+ 
+Campus Facilities 
+(From Official FAST Karachi Campus Website — khi.nu.edu.pk and Official FAST National 
+University Student Services — nu.edu.pk) 
+ 
+Library: The FAST National University Library is accessible online through the university’s 
+digital library portal. The library supports academic research and is integrated across all 
+campuses. 
+ 
+Student Societies and Extracurricular Activities: The Karachi campus hosts a range of 
+student societies supporting technical, cultural, and extracurricular engagement. Students 
+are encouraged to participate in and organize events, competitions, and community 
+initiatives. 
+ 
+Medical Room: A medical room is available at the Karachi campus for student health and 
+wellness needs. The Department of Medical, Wellness, and Sports also organizes training 
+programs such as First Aid practices in collaboration with the Quality Enhancement Cell. 
+ 
+Student Chapters: The university hosts an Institute of Electrical and Electronics Engineers 
+student cha
+
+Jinnah Sindh Medical University (JSMU)
+ Comprehensive Knowledge Base for RAG Training
+ Version: 2025-26 | Verified Against Official JSMU Sources
+SECTION 1: OVERVIEW & HISTORY
+Jinnah Sindh Medical University (JSMU) is a public sector medical university located in Karachi, Sindh,
+Pakistan. It is the largest medical university in the province of Sindh, with a total student enrollment
+exceeding 6,000 across undergraduate, postgraduate, and doctoral programs.
+Source: JSMU Official Website (jsmu.edu.pk) — About Page; TopUniversities Profile of JSMU
+The university traces its origins to Sindh Medical College (SMC), which was established on April 7,
+1973, after approval of a committee constituted by the Government of Sindh. The college initially
+operated within the premises of Jinnah Postgraduate Medical Centre (JPMC). Approximately 200
+students were admitted in the first batch of MBBS in 1973.
+Source: Wikipedia — Jinnah Sindh Medical University; JSMU Official About Page
+In 2003, Sindh Medical College became a constituent of Dow University of Health Sciences (DUHS).
+Later in 2010, it merged with Jinnah Postgraduate Medical Centre. The college formally achieved
+university status on June 1, 2012, through a legislative ordinance signed by the Governor of Sindh,
+Ishrat-ul-Ebad Khan, in the presence of President Asif Ali Zardari at Bilawal House.
+Source: Wikipedia — Jinnah Sindh Medical University; JSMU Official About Page
+JSMU is fully recognized by the Higher Education Commission (HEC) of Pakistan and the University
+Grants Commission (UGC). All medical and dental programs are regulated by the Pakistan Medical
+Commission (PMC). JSMU currently has 11 constituent institutes and approximately 35 affiliated
+colleges and programmes.
+Source: Wikipedia — Jinnah Sindh Medical University; HEC University Listing; JSMU Official About Page
+The university's motto is 'Knowledge, Service, and Character.' Its mission is to be a socially
+accountable, nationally benchmarked institution aspiring to improve health through education,
+leadership, scholarship, and community service.
+Source: JSMU Official About Page (jsmu.edu.pk/about.html)
+JSMU is a pioneer of the modular method of teaching in public sector medical universities in Pakistan. It
+was the first public sector medical university to administer computer-based semester and final
+examinations to all enrolled students, and the first public sector university in Pakistan to provide free
+Wi-Fi to students and faculty.
+Source: JSMU Official About Page; TopUniversities Profile of JSMU
+SECTION 2: CAMPUS LOCATION & CONTACT
+
+JSMU operates from its main campus located at Rafiqi H.J. Shaheed Road, Karachi, Sindh, Pakistan.
+The main campus houses the central administrative offices, the Admissions Directorate, Sindh Medical
+College, Sindh Institute of Oral Health Sciences, and the Institute of Pharmaceutical Sciences, among
+other faculties.
+Source: HEC University Listing; JSMU Official Website Contact Page
+Clinical training for students takes place at prestigious affiliated teaching hospitals, primarily the Jinnah
+Postgraduate Medical Centre (JPMC), National Institute of Child Health (NICH), and National Institute of
+Cardiovascular Diseases (NICVD).
+Source: JSMU Official About Page (jsmu.edu.pk/about.html); TopUniversities Profile
+Contact information: Phone: +92-21-99204776, +92-21-35223812 to 16. Official website:
+www.jsmu.edu.pk. Official admissions portal is accessible through the main website.
+Source: HEC University Listing; JSMU Official Website
+SECTION 3: UNDERGRADUATE PROGRAMS
+JSMU offers a comprehensive range of undergraduate degree programs across medicine, dentistry,
+pharmacy, allied health sciences, nursing, and business.
+Source: JSMU Admissions Page (jsmu.edu.pk/new-admissions.html)
+Bachelor of Medicine and Bachelor of Surgery (MBBS) is a five-year program offered at Sindh Medical
+College (SMC), the flagship constituent college of JSMU. JSMU admits approximately 350 students
+annually for MBBS across open merit, self-finance, and reserved quota seats.
+Source: JSMU Official Website; MeraAdmission.net JSMU Profile
+Bachelor of Dental Surgery (BDS) is offered at the Sindh Institute of Oral Health Sciences (SIOHS),
+which is a constituent dental institute of JSMU.
+Source: JSMU Admissions Page; JSMU About Page
+Doctor of Pharmacy (Pharm-D) is a five-year professional degree offered at the Institute of
+Pharmaceutical Sciences (IPS).
+Source: JSMU Admissions Page (jsmu.edu.pk/new-admissions.html)
+Doctor of Physical Therapy (DPT) is a five-year program offered at the Institute of Physical Therapy and
+Rehabilitation (IPTR), focusing on physiotherapy and rehabilitation.
+Source: JSMU Admissions Page; JSMU About Page
+BS Nursing (Generic) is a four-year undergraduate program offered at the College of Nursing (CON).
+Separate merit lists are maintained for male and female nursing students.
+Source: JSMU Admissions Page; JSMU Official Scholarship and Fee Notices
+BS Medical Technology (BSMT) is a four-year program offered at the Institute of Medical Technology
+and Education (IMTE). The program is now in its seventh batch as of 2025-26.
+
+Source: JSMU Official Website Notification — BSMT Batch 7 Orientation; JSMU Admissions Page
+BS Public Health (BSPH) is a four-year program offered at the APPNA Institute of Public Health (AIPH).
+Source: JSMU Admissions Page; JSMU About Page
+BS Occupational Therapy is a four-year program offered at JSMU. Entry test results for BS
+Occupational Therapy Session 2025-26 were released in March 2026.
+Source: JSMU New Admissions Page — March 2026 Notifications
+BBA (Honours) is a business undergraduate program offered at the Institute of Health and Business
+Management (IHBM). BBA (Healthcare Management) — referred to as BBA (HCM) — is a specialized
+variant with a focus on healthcare administration, also offered at IHBM.
+Source: JSMU Admissions Page; JSMU IHBM Spring 2025 Admission Notice
+SECTION 4: POSTGRADUATE PROGRAMS
+JSMU offers a range of postgraduate master's, MPhil, and PhD programs across health sciences,
+business, and allied disciplines.
+Source: JSMU Admissions Page (jsmu.edu.pk/new-admissions.html)
+Master of Science in Public Health (MSPH) is a postgraduate public health program. Master of Health
+Professions Education (MHPE) is a specialized master's program in health education, with admissions
+active in 2026.
+Source: JSMU Admissions Page; April 2026 MHPE Admission Notice on JSMU Website
+MBA (Healthcare and Hospital Management) — referred to as MBA (HHCM) — is offered at IHBM. An
+Executive MBA (EMBA) is also offered. Admissions for MBA, EMBA, and BBA (IHBM) for the 2025
+session were extended, with applications accepted through July 2025.
+Source: JSMU Admissions Page; Educated.pk JSMU Admission 2025 Report
+MPhil programs are offered in Clinical Pathology, Anatomy, Pharmaceutics, Pharmacology,
+Pharmacognosy, and Pharmacy Practice. PhD programs are offered in Biochemistry, Dental Health
+Sciences, Health Professions Education (HPE), Public Health Sciences, Pharmaceutical Sciences, and
+Management Sciences. MPhil and PhD in Anatomy admissions were announced in March 2026.
+Source: JSMU Admissions Page; JSMU New Admissions Notifications — March 2026
+For MPhil and PhD applicants, an entry test is conducted by JSMU. Entry test notices for PhD
+Management Sciences 2025 and MPhil/PhD Pharmaceutical Sciences 2025 were published on the
+official JSMU admissions page.
+Source: JSMU New Admissions Page — Entry Test Notices 2025
+Additional certifications and diploma programs include the Diploma in Family Medicine (Regional
+Professional Diploma in Family Medicine) and the Certificate in Health Professional Education (CHPE).
+A Clinical Research Certified Professional (CRCP) program was also launched in 2025.
+
+Source: JSMU Admissions Page; JSMU Official Notifications 2025
+SECTION 5: CONSTITUENT INSTITUTES
+JSMU has 11 constituent institutes that form the core of its academic and research activities. These are
+the primary teaching and clinical units of the university.
+Source: Wikipedia — Jinnah Sindh Medical University; JSMU Official About Page
+Sindh Medical College (SMC) was established on April 7, 1973. It is the foundational constituent of
+JSMU and offers the MBBS program. SMC is a pioneer of the modular teaching method in public sector
+medical education in Pakistan.
+Source: JSMU Official SMC Page (jsmu.edu.pk/institute-smc-dean.html); Wikipedia
+Sindh Institute of Oral Health Sciences (SIOHS) offers the BDS program and provides outpatient dental
+services through its dental clinic. SIOHS conducts extensive community outreach including free dental
+screenings and care for low-income families.
+Source: Talloires Network JSMU Profile; JSMU About Page
+Institute of Pharmaceutical Sciences (IPS) offers the Pharm-D program and MPhil/PhD in
+Pharmaceutical Sciences including Pharmaceutics, Pharmacology, Pharmacognosy, and Pharmacy
+Practice.
+Source: JSMU Admissions Page; JSMU About Page
+APPNA Institute of Public Health (AIPH) offers the BS Public Health and MSPH programs. It focuses on
+epidemiology, health policy, and community health.
+Source: JSMU About Page; Talloires Network JSMU Profile
+Institute of Health and Business Management (IHBM) offers BBA, BBA (HCM), MBA (HHCM), and
+EMBA programs. It is focused on health systems management and business administration for
+healthcare professionals.
+Source: JSMU Admissions Page; JSMU Official IHBM Notifications
+College of Nursing (CON) offers BS Nursing (Generic) for both male and female students.
+Source: JSMU Admissions Page; JSMU Fee Structure Notifications
+Institute of Physical Therapy and Rehabilitation (IPTR) offers the five-year Doctor of Physical Therapy
+(DPT) program.
+Source: JSMU Admissions Page (jsmu.edu.pk/admissions-dpt.html)
+Institute of Medical Technology and Education (IMTE) offers BS Medical Technology (BSMT).
+Source: JSMU Admissions Page (jsmu.edu.pk/admissions-bsmt.html); JSMU Orientation Notification
+College of Family Medicine offers the Diploma in Family Medicine (Regional Professional Diploma in
+Family Medicine). The Institute of Medical Education focuses on health professions education. The
+
+Institute of Reproductive and Genetic Health addresses reproductive medicine.
+Source: JSMU Official About Page; JSMU Admissions Page
+Clinical constituent institutions include Jinnah Postgraduate Medical Centre (JPMC) and National
+Institute of Child Health (NICH), which serve as primary teaching hospitals for JSMU students.
+Source: JSMU About Page; TopUniversities Profile of JSMU
+SECTION 6: ADMISSION ELIGIBILITY CRITERIA
+Eligibility requirements vary by program level and type. All programs require an entry test with a
+minimum passing score of 50%.
+Source: JSMU Admissions Page; Jaamiah.com JSMU University Profile
+For MBBS at Sindh Medical College (SMC): Applicants must have completed FSc (Pre-Medical) or an
+equivalent qualification (IBCC-certified for A-Level students) with a minimum of 60% marks. The age
+requirement is between 17 and 25 years. A valid MDCAT score as per PMC regulations is mandatory.
+Sindh domicile and Permanent Residence Certificate (PRC) are required for public sector seats.
+Source: MedicalStudy.pk JSMU Admission Guide; PMDC.org.pk — Sindh Medical College Profile 2025
+For BDS at SIOHS: Eligibility is the same as MBBS — FSc Pre-Medical with minimum 60% marks, valid
+MDCAT score, age 17 to 25 years, Sindh domicile for public sector seats.
+Source: JSMU SIOHS Admissions Page; MedicalStudy.pk JSMU Admission Guide
+For Pharm-D, DPT, BS Nursing, BS Medical Technology, BS Public Health, and BS Occupational
+Therapy: Applicants must have FSc Pre-Medical or equivalent with a minimum of 60% marks. A
+minimum score of 50% in the JSMU Entry Test is required. For most BS programs, candidates must
+secure at least 50% in both FSc and the entry test to qualify for merit listing.
+Source: JSMU Admissions Page; MeraAdmission.net JSMU Admission Guide 2025
+For BBA and BBA (HCM): Applicants must have completed intermediate-level education (12 years of
+education). For MBA (HHCM) and EMBA: Applicants need 16 years of education with a relevant
+undergraduate degree.
+Source: JSMU IHBM Admission Notice; JSMU Admissions Page
+For graduate programs (Master's): A minimum of 16 years of education is required, with at least a
+second division in the annual system or a minimum CGPA of 2.5 in the semester system. A minimum of
+50% in the entry test is required.
+Source: Jaamiah.com JSMU University Profile — Selection Criteria for Graduate Programs
+For MPhil and PhD: A relevant master's degree with minimum qualifying CGPA is required. Entry tests
+for each program are conducted by JSMU. Candidates are notified of test dates through the official
+JSMU website.
+Source: JSMU New Admissions Page — PhD and MPhil Entry Test Notices 2025
+
+SECTION 7: ENTRY TESTS
+Entry tests are mandatory for all programs at JSMU. No exemptions are granted. The type of entry test
+depends on the program.
+Source: JSMU Admissions Page; JSMU Admission Policy — SOPs
+For MBBS and BDS, the National MDCAT (Medical and Dental College Admission Test) is mandatory.
+In Sindh Province, IBA Sukkur administers the MDCAT on behalf of the Pakistan Medical Commission
+(PMC). The MDCAT is held annually, typically in September or October. The test comprises 200 MCQs
+over 150 minutes with no negative marking, covering Biology, Chemistry, Physics, English, and Logical
+Reasoning.
+Source: MedicalStudy.pk JSMU Admission Guide; PMC MDCAT Regulations
+The minimum MDCAT score for MBBS eligibility is 65% (130 out of 200) as per PMC regulations. The
+minimum MDCAT score for BDS eligibility is 55% (110 out of 200).
+Source: PMC/PM&DC; Regulations; MBBS.com.pk MDCAT 2025 Guide
+For Pharm-D, DPT, BS Nursing, BS Medical Technology, BS Public Health, and BS Occupational
+Therapy, JSMU administers its own internal JSMU Entry Test. A minimum of 50% marks in the entry
+test is required for admission eligibility in these programs.
+Source: JSMU Admissions Page; MeraAdmission.net JSMU Admission Guide
+For BBA, MBA, and EMBA programs at IHBM, JSMU conducts its own entry test assessing quantitative
+and verbal skills. A minimum of 50% marks is required.
+Source: JSMU Admissions Page; Jaamiah.com JSMU University Profile
+The merit formula for MBBS and BDS uses PMC's standard: SSC marks at 10%, HSSC marks at 40%,
+and MDCAT score at 50%. For BS programs using the JSMU internal test, merit is typically based on
+50% FSc marks and 50% JSMU entry test score.
+Source: PMC Merit Formula; MeraAdmission.net JSMU Admission Guide
+SECTION 8: APPLICATION PROCEDURE
+The entire application and admission process at JSMU is conducted online through the official website
+at www.jsmu.edu.pk. Candidates fill out the online application form on the admissions portal, upload
+required documents, and pay the processing fee.
+Source: JSMU Admissions Page; PMDC.org.pk SMC Karachi Admission Guide 2025
+The application processing fee is PKR 2,500, paid via online banking or bank challan at designated
+banks. The fee is non-refundable.
+Source: PMDC.org.pk — Sindh Medical College Karachi Profile 2025
+
+For MBBS and BDS, applicants must also register with the PMC/UHS portal for the national MDCAT
+process separately. The MDCAT is administered by IBA Sukkur in Sindh Province.
+Source: PMC Admission Guidelines; IBA Sukkur MDCAT Administration
+Prospective students are advised to submit applications before the deadline, as late applications are not
+entertained. The Provisional Admission Offer Letter must be collected in person from the JSMU
+Admissions Office (3rd Floor) during office hours, 10:00 AM to 2:00 PM.
+Source: JSMU Official Admissions Page; Educated.pk JSMU Merit List 2025 Guide
+SECTION 9: REQUIRED DOCUMENTS
+A complete application must include the filled online application form, FSc or A-Level transcripts (with
+IBCC equivalence certificate for A-Level students), SSC or O-Level transcripts, CNIC or B-Form copy,
+passport-sized photographs, and MDCAT score certificate or JSMU entry test result slip.
+Source: JSMU Official Admissions Page; PMDC.org.pk SMC Karachi Admission Guide
+For public sector MBBS and BDS seats, an original Permanent Residence Certificate (PRC) and Sindh
+domicile certificate from the applicant's tagged district are mandatory. Without these documents, the
+application is not considered for public sector seats.
+Source: JSMU Admissions Policy; Educated.pk Sindh Medical Colleges Admission Guide
+Foreign certificate holders must submit an IBCC equivalence certificate along with their application.
+Overseas applicants must meet separately specified foreign quota criteria.
+Source: JSMU Admissions Page; MedicalStudy.pk JSMU Admission Guide
+SECTION 10: ADMISSION DEADLINES
+Deadlines at JSMU vary by program and intake session and are published on the official admissions
+portal. Late applications are not considered.
+Source: JSMU Official Admissions Page (jsmu.edu.pk/new-admissions.html)
+For MBBS and BDS in the 2025-26 session, the application deadline was approximately October 31,
+2025. For Allied Health Sciences programs (Pharm-D, BS Nursing, DPT, BS Public Health, BS Medical
+Technology), the 2025-26 application window was active in late 2025 with data verification for enrolled
+students completed in 2026.
+Source: PMDC.org.pk SMC Karachi Profile 2025; JSMU New Admissions Page Notifications 2025-26
+For MBA, EMBA, and BBA (IHBM) programs, the application deadline for the 2025 session was
+extended to July 19, 2025.
+Source: Educated.pk JSMU Admission 2025 Report
+For MPhil and PhD programs, deadlines are announced on a rolling basis via the JSMU admissions
+page. Students should monitor the official website regularly for new notices.
+
+Source: JSMU New Admissions Page — Rolling PhD/MPhil Notices March-April 2026
+SECTION 11: CLOSING MERIT & COMPETITIVENESS
+Admission to JSMU, particularly for MBBS, is highly competitive. The closing merit for MBBS at JSMU
+typically ranges between 85% to 90% aggregate for open merit seats. Self-finance and reserved seats
+may have lower closing percentages.
+Source: MeraAdmission.net JSMU Profile; JSMU Merit List Notifications
+JSMU offers approximately 350 seats annually for MBBS, divided across open merit, self-finance,
+reserved seats for interior Sindh divisions, and a limited number of seats for students from Punjab
+domicile under the provincial quota system.
+Source: MeraAdmission.net JSMU Profile; Educated.pk Sindh Medical Colleges Admission Guide
+Attendance requirements for MBBS and BDS are strict. A minimum attendance of 90% is required in all
+classes to be eligible to appear in examinations.
+Source: JSMU Official Website Notification — Attendance Policy for MBBS/BDS
+SECTION 12: FEE STRUCTURE
+As a public sector university, JSMU charges significantly lower tuition fees than private medical
+institutions. Fee structures are set in accordance with provincial government policy and the university
+reserves the right to revise fees at any time.
+Source: JSMU Fee Structure Pages (jsmu.edu.pk/admission-fee-structure-smc.html); JSMU Admissions Policy
+For MBBS at Sindh Medical College (SMC), the annual tuition fee is approximately PKR 50,000 to
+60,000, excluding additional charges such as hostel fees and examination fees. This is the public sector
+subsidized rate.
+Source: PMDC.org.pk — Sindh Medical College Karachi Profile 2025
+The application processing fee for all programs is PKR 2,500, payable online or via bank challan. This
+fee is non-refundable and non-adjustable.
+Source: PMDC.org.pk — Sindh Medical College Karachi Profile 2025
+Separate transport fees are collected annually for students utilizing the university bus service. Transport
+fee notices are published on the official website for each program separately (MBBS, BDS, Pharm-D,
+DPT, BBA, BS Nursing, BSPH, BSMT).
+Source: JSMU Official Website — Transport Fee Collection Notice 2025
+Exact and current fee structures for all programs are available in the official program prospectuses,
+which are downloadable from the JSMU admissions page. Students are advised to refer to the official
+prospectus for the most up-to-date figures.
+Source: JSMU Admissions Page — Program Prospectuses (Pharm-D, BSN, DPT, BSPH, BSMT)
+
+SECTION 13: SCHOLARSHIPS & FINANCIAL AID
+JSMU offers multiple scholarship programs through its Student Affairs Department to support both
+academically strong and financially deserving students.
+Source: JSMU Scholarships Page (jsmu.edu.pk/scholarships.html)
+The JSMU Undergraduate Scholarship Program provides need-cum-merit-based financial support to
+eligible students. Applications are invited annually via the official website. Separate scholarship
+interviews are conducted for students of MBBS, BDS, Pharmacy, DPT, Nursing, BSMT, BBA, and
+BSPH.
+Source: JSMU Scholarships Page; JSMU Scholarship Interview Notification 2023-24
+The Zakat and Usher Scholarship is funded by the Zakat and Usher Department, Government of Sindh.
+It is a need-cum-merit-based scholarship available to enrolled students. Cheques are distributed
+through the Student Affairs Department.
+Source: JSMU Official Website — Zakat Scholarship Notifications 2024 and 2025
+The Sindh Educational Endowment Fund (SEEF) Scholarship, also known as the Sindh Endowment
+Scholarship, is available to financially deserving students. SEEF scholarship interviews are conducted
+at JSMU. Students are notified via the official website.
+Source: JSMU Official Website — SEEF Scholarship Notification 2024-25
+The Ehsaas Undergraduate (UG) Scholarship is a federal government initiative for financially deserving
+undergraduate students, available at JSMU.
+Source: Jaamiah.com JSMU University Profile
+The SHEC (Sindh Higher Education Commission) MPhil Scholarship Program is available for
+postgraduate students enrolled in MPhil programs at JSMU.
+Source: JSMU Official Website — SHEC Scholarship Notice for Postgraduate Students 2025
+Minority Student Scholarships are provided by the Minorities Affairs Department, Government of Sindh,
+and are open to eligible minority students at JSMU.
+Source: JSMU Scholarships Page — Minorities Scholarship Application Notice
+JSMU also disseminates international scholarship opportunities to students, including Commonwealth
+Scholarships, the Scotland-Pakistan Scholarships Scheme for Young Women, SAARC Development
+Fund scholarships, Malaysian Scholarship Certification Programs, and government scholarships from
+countries such as Brunei, Romania, Canada, and Indonesia.
+Source: JSMU Scholarships Page (jsmu.edu.pk/scholarships.html)
+SECTION 14: REFUND POLICY
+
+JSMU has a formal Fee Refund Policy and Fee Refund SOPs (Standard Operating Procedures), which
+are published on the official admissions page.
+Source: JSMU Admissions Page — Fee Refund Policy and SOPs Section
+The application processing fee of PKR 2,500 is non-refundable under all circumstances.
+Source: PMDC.org.pk — Sindh Medical College Karachi Profile 2025
+Tuition fee refunds upon seat cancellation are governed by national higher education guidelines and the
+university's own published SOPs. Students considering cancellation of admission should review the
+official Fee Refund Policy document available on the JSMU admissions page before making any
+decision.
+Source: JSMU Admissions Page — Fee Refund Policy and SOPs
+SECTION 15: FACILITIES
+JSMU maintains a dedicated fleet of transport buses for students across various routes in Karachi.
+Transport fees are collected separately and notices for fee collection are published program-wise on the
+official website.
+Source: JSMU Official Website — Transport Fee Collection Notice 2025
+The Girls' Hostel is located in PECHS Block-6, in close proximity to the university. It can accommodate
+approximately 55 students. The hostel provides mess facilities, round-the-clock warden supervision,
+and transport service for residents.
+Source: JSMU Facilities Page — Boys and Girls Hostel (jsmu.edu.pk/facilties-hostel.html)
+The Boys' Hostel is under expansion, with a tender for construction of a boys' hostel extension building
+and supply of miscellaneous furniture issued in 2025.
+Source: JSMU Official Website — Hostel Construction Tender Notice 2025
+JSMU has a large digital library with over 300 computers, more than 45,000 e-books, and access to
+25,000 international research journals.
+Source: JSMU Official Website About Page; TopUniversities Profile
+The university offers an online examination system and currently has 166 e-learning courses online,
+with over 110 faculty members trained in creating e-learning material.
+Source: JSMU About Page; TopUniversities Profile of JSMU
+Infrastructure features include air-conditioned lecture halls, biometric and facial recognition attendance
+systems, and modern science and clinical simulation laboratories.
+Source: Times Higher Education JSMU Profile; JSMU About Page
+JSMU provides Wi-Fi access to all students and faculty across its campus, having been the first public
+sector university in Pakistan to implement this facility university-wide.
+Source: TopUniversities Profile of JSMU; JSMU About Page
+
+SECTION 16: RECOGNITION & RANKINGS
+JSMU is fully recognized by the Higher Education Commission (HEC) of Pakistan and the University
+Grants Commission (UGC). It is chartered by the Government of Sindh.
+Source: HEC University Listing; Wikipedia — Jinnah Sindh Medical University
+All medical and dental programs are recognized by the Pakistan Medical Commission (PMC). BS
+Nursing is accredited by the Pakistan Nursing Council (PNC).
+Source: JSMU Official Website; Jaamiah.com JSMU Profile
+JSMU is the largest medical university in the province of Sindh by student enrollment, with over 6,000
+students across all programs. It has held its Seventh Convocation in 2025-26, having conferred 505
+degrees in January 2025 following over 500 in 2024 and more than 600 in 2022.
+Source: JSMU Official Website — 7th Convocation Notice; Grokipedia JSMU Article
+SECTION 17: CONTACT & ONLINE RESOURCES
+Official university website: www.jsmu.edu.pk
+Source: JSMU Official Website
+Official admissions portal is accessible via the main website. Applicants can apply online through the
+portal at www.jsmu.edu.pk.
+Source: JSMU Admissions Page (jsmu.edu.pk/new-admissions.html)
+Physical address: Rafiqi H.J. Shaheed Road, Karachi, Sindh, Pakistan.
+Source: HEC University Listing; JSMU Official Contact Page
+Phone: +92-21-99204776, +92-21-35223812 to 16.
+Source: HEC University Listing
+Students are advised to always refer to the official JSMU website and admissions portal for the most
+current information. Deadlines, fee structures, entry test dates, and program availability change each
+academic session.
+Source: JSMU Admissions Page General Advisory
+
+Karachi.md 2026-04-08 
+ 
+1 / 6 
+ 
+Institutional Identity and History 
+ 
+The University of Karachi, commonly known as Karachi University, is the premier public 
+research university of Karachi, Sindh, Pakistan. It is recognized globally and is positioned 
+within the top 8.9% of universities worldwide according to the Center for World University 
+Rankings for 2025, while maintaining a ranking of 13th nationally within Pakistan. The QS 
+World University Rankings for 2026 places the institution within the 1001 to 1200 bracket 
+globally. 
+ 
+Operating as both an educational and an affiliating examining body, the university 
+influences the academic trajectories of tens of thousands of students annually. The 
+internal academic architecture is immense, comprising over 50 distinct academic 
+departments across multiple faculties including Arts and Social Sciences, Science, Islamic 
+Studies, Engineering, Law, Pharmacy, Management, and Education. 
+ 
+Campus Infrastructure 
+ 
+The University of Karachi operates from its main campus located on University Road, 
+Karachi. The campus houses all primary faculties and departments under a single 
+institutional body. The university also functions as an affiliating university, overseeing the 
+academic standards of numerous colleges across the city and province. 
+ 
+Academic Programs 
+ 
+The university offers a vast range of undergraduate and postgraduate programs spanning 
+sciences, humanities, professional disciplines, and applied fields. Programs are offered in
+
+both Morning and Evening shifts. The Morning shift serves as the standard regular program, 
+while the Evening shift functions as a supplementary, revenue-generating parallel offering. 
+ 
+Bachelor of Science Programs — Morning 
+ 
+The university offers Bachelor of Science programs across four broad pricing tiers based on 
+discipline, laboratory requirements, and market demand. These include programs in 
+Arabic, Bengali, Islamic History, Persian, Philosophy, Sindhi, Urdu, Islamic Learning, Usool-
+ud-Din, Quran and Sunnah, Chinese, History, Library and Information Science, Pakistan 
+Studies, Political Science, Social Work, Women’s Studies, Education, Special Education, 
+Digital Media Marketing, Economics, Economics and Finance, English, International 
+Relations, Mass Communication, Psychology, Sociology, Teacher Education, Applied 
+Physics, Botany, Genetics, Geography, Geology, Health and Physical Education, 
+Mathematics, Marine Science, Physics, Statistics, Zoology, Applied Chemistry, 
+Biochemistry, Biotechnology, Chemistry, Food Science, Institute of Space Science and 
+Technology, Microbiology, Physiology, Poultry Science, Public Health, Financial 
+Mathematics, Computational Mathematics, Human Nutrition and Dietetics, Criminology, 
+Public Administration, Actuarial Science and Risk Management, Environmental Studies, 
+Agriculture and Agribusiness Management, Chemical Engineering, Sports Business 
+Management, Visual Studies, Computer Science, Artificial Intelligence, School of Law, 
+Petroleum Technology, Karachi University Business School offering Bachelor of Business 
+Administration, and Doctor of Pharmacy. 
+ 
+Bachelor of Science Programs — Evening 
+ 
+The Evening program offers the same academic disciplines as the Morning program for 
+most departments, with substantially elevated fee structures. Evening admissions are 
+governed by a lower merit threshold, effectively making the financial capacity of the 
+student the primary barrier to entry rather than academic performance. 
+ 
+Entrance Test Based Specialized Programs
+
+For professional and specialized disciplines, the university requires candidates to clear a 
+mandatory entrance test in addition to meeting the intermediate academic percentage 
+requirement. Programs requiring the entrance test include Computer Science, Software 
+Engineering, Doctor of Pharmacy, Karachi University Business School Bachelor of Business 
+Administration, Human Nutrition and Dietetics, Chemical Engineering, Food Science and 
+Technology, Applied Chemistry and Chemical Technology, Applied Physics, Criminology, 
+Doctor of Physical Therapy, Environmental Studies, Public Administration, Teacher 
+Education Bachelor of Education Honors, Petroleum Technology, Special Education, and 
+Sports Business Management. 
+ 
+Admission Policy (2025) 
+ 
+Merit Formula and Admission Categories 
+ 
+The University of Karachi uses a geography-based admission sorting system formally 
+known as the Karachi, Sindh, Pakistan policy, commonly referred to as the KSP policy. This 
+policy stratifies applicants into three sequential priority tiers based on where the applicant 
+completed their Secondary and Higher Secondary Certificate education. 
+ 
+Category Karachi: This is the primary and highest-priority tier. It is reserved for applicants 
+who completed their Secondary Certificate and Higher Secondary Certificate from 
+institutions physically situated within Karachi. 
+ 
+Category Sindh: This is the secondary priority tier, applying to candidates whose 
+educational certificates were obtained from recognized institutions within Sindh province, 
+excluding Karachi. 
+ 
+Category Pakistan: This is the tertiary priority tier, encompassing all remaining applicants 
+whose qualifications were obtained from institutions outside Sindh but within Pakistan.
+
+Admissions are filled sequentially: Karachi category applicants are considered first, 
+followed by Sindh category applicants if seats remain, and finally Pakistan category 
+applicants if further seats are still available. This system has faced significant legislative 
+scrutiny, with provincial oversight bodies directing the university to transition toward a 
+unified, province-wide open merit system. However, the KSP stratification remained deeply 
+embedded in the 2025 admission cycle. 
+ 
+Eligibility Criteria 
+ 
+The university establishes an absolute statutory minimum of 45% in the Higher Secondary 
+Certificate as the floor for eligibility across all open merit programs. Programs under the 
+entrance test based system require candidates to also achieve a minimum score of 50 out 
+of 100 on the university entrance test in order to proceed to academic merit ranking. 
+Certain programs operating under reduced demand conditions have lowered this test 
+minimum to 45, 40, 35, 30, or even 25 in order to fill institutional capacity. A small number 
+of programs are fully exempted from the test requirement. 
+ 
+For the School of Law program, candidates must additionally provide a valid Higher 
+Education Commission Law Admission Test score of a minimum of 50 marks, 
+compounding the entry barrier beyond the standard test. 
+ 
+Application Process 
+ 
+Students must apply through the official University of Karachi admissions portal. The 
+application and processing procedures follow standard public university protocols, with 
+documentation requirements including Higher Secondary Certificate and Secondary 
+Certificate transcripts, national identity documents, and domicile certificates where 
+applicable. 
+ 
+Entry Test Details
+
+The University of Karachi administers its own internal entrance test for specialized and 
+professional programs. The standard passing mark for the entrance test is 50 out of 100. 
+Candidates who score below the required minimum on the entry test are automatically 
+disqualified regardless of their intermediate academic percentage. The entry test acts as a 
+first filter before the academic merit percentage is applied for final ranking. 
+ 
+Fee Structure (Session 2025) 
+ 
+The University of Karachi follows a deliberate tiered pricing strategy for its Morning 
+programs, based on faculty grouping, laboratory infrastructure requirements, and the 
+perceived market value of the degree. All morning program fees include an embedded 
+admission fee of Rs. 1,000. The university has mandated a compounding annual fee 
+escalation of 10% per year for the batch of 2025 onward, meaning the total cost of a four-
+year degree increases significantly beyond the initial intake fee. 
+ 
+Morning Program Fee Tiers 
+ 
+The lowest fee bracket, ranging from Rs. 26,000 to Rs. 31,000 per semester, covers 
+traditional humanities, classical languages, and theological disciplines. This includes 
+Arabic, Bengali, Islamic History, Persian, Philosophy, Sindhi, Urdu, the Faculty of Islamic 
+Studies programs, Chinese, History, Library and Information Science, Pakistan Studies, 
+Political Science, Social Work, Women’s Studies, and Education. 
+ 
+The standard sciences and social sciences bracket, ranging from Rs. 34,000 to Rs. 43,000 
+per semester, covers programs such as Digital Media Marketing, Economics, Economics 
+and Finance, English, International Relations, Mass Communication, Psychology, 
+Sociology, Teacher Education, Applied Physics, Botany, Genetics, Geography, Geology, 
+Health and Physical Education, Mathematics, Marine Science, Physics, Statistics, Zoology, 
+Applied Chemistry, Biochemistry, Biotechnology, Chemistry, Food Science, Institute of 
+Space Science and Technology, Microbiology, Physiology, Poultry Science, and Public 
+Health.
+
+The specialized and emerging disciplines bracket, ranging from Rs. 52,000 to Rs. 82,500 per 
+semester, covers Financial Mathematics, Computational Mathematics, Human Nutrition 
+and Dietetics, Criminology, Public Administration, Actuarial Science and Risk 
+Management, Environmental Studies, Agriculture and Agribusiness Management, 
+Chemical Engineering, and Sports Business Management. 
+ 
+The elite corporate and healthcare premium bracket, ranging from Rs. 86,000 to Rs. 
+209,000 per semester, covers Visual Studies, Computer Science, Artificial Intelligence, 
+School of Law which includes an additional Rs. 3,000 Pakistan Bar Council registration fee, 
+Petroleum Technology, Karachi University Business School Bachelor of Business 
+Administration, Doctor of Pharmacy Evening program, and Doctor of Physical Therapy 
+which carries the highest fee of Rs. 209,000 per semester. 
+ 
+Evening Program Fee Structure 
+ 
+The Evening program charges a mandatory non-refundable upfront administrative overhead 
+at the start of each academic year. This consists of an admission fee of Rs. 4,500, an 
+enrolment fee of Rs. 1,500, a development fee of Rs. 2,500, and a refundable caution 
+money deposit of Rs. 1,500, bringing the total initial amount to Rs. 10,000. This Rs. 10,000 
+is added to the base tuition fee at the time of admission. 
+ 
+Evening tuition fees are substantially higher than Morning fees across all departments. 
+Mass Communication students face a premium of over 117% compared to their Morning 
+counterparts. English and International Relations students face a markup of approximately 
+66%. Standard sciences such as Microbiology and Biotechnology carry an evening 
+premium of approximately 72%. Computer Science carries an evening premium of 
+approximately 21.5%, while Karachi University Business School Bachelor of Business 
+Administration carries the smallest relative premium at approximately 8%, as pushing 
+those fees further would exceed the financial capacity of the target demographic. 
+ 
+Credential Upgrading and Diploma Programs
+
+The university also offers Bachelor of Science Third Year lateral entry programs through the 
+Evening shift, designed for mid-career professionals and students holding legacy two-year 
+degrees who need to upgrade to a four-year Bachelor of Science equivalent. Fees for Third 
+Year entry broadly mirror the Evening First Year structure. 
+ 
+Additionally, the university offers postgraduate diploma and certificate courses targeting 
+specific professional niches. The Postgraduate Diploma in Computer Science is priced at 
+Rs. 63,000. The Postgraduate Diploma in Human Resource Management is priced at Rs. 
+45,000. Investigative Psychology and Industrial Psychology diplomas are priced at Rs. 
+46,500. Certificate courses in Mass Communication, Islamic Banking, Arabic, and 
+Petroleum Technology are standardized at Rs. 17,000 tuition plus Rs. 10,000 admission, 
+totaling Rs. 27,000. 
+ 
+Refund Policy (Higher Education Commission Standards) 
+ 
+First 7 Days of Classes: 100% refund of tuition fees. 
+8th to 15th Day of Classes: 50% refund. 
+After 15th Day: No refund. 
+Admission Fee: Non-refundable under any circumstances. 
+ 
+Historical Closing Merit Data — Morning Open Merit 2025 
+ 
+IMPORTANT NOTE: The following closing percentages reflect the 2025 open merit cycle 
+under the KSP geographical policy. Karachi category closings represent the primary merit 
+pool. Sindh and Pakistan category closings are substantially higher due to the sequential 
+seat allocation model, and should not be compared directly to Karachi category figures. 
+ 
+Programs closing at the statutory minimum of 45% across all categories include Arabic, 
+Audiology and Speech Language Pathology, Geology, History, Islamic History, Islamic 
+Learning, Library and Information Science, Persian, Philosophy, Quran and Sunnah, Sindhi, 
+Special Education, Social Work, Urdu, Usool-ud-Din, and Women’s Studies.
+
+Programs with elevated Karachi category closing percentages for 2025 are as follows. 
+Digital Media Marketing for standard intermediate students closed at 76.82%. Digital Media 
+Marketing for Diploma of Associate Engineering holders closed at 79.69%. Psychology for 
+first division holders closed at 78.18%. Microbiology closed at 70.09%. English for students 
+with 60% or above in compulsory English closed at 68.82%. Economics and Finance closed 
+at 67.55%. Biochemistry closed at 67.18%. Genetics closed at 67.18%. School of Law 
+closed at 62.27% with an additional Higher Education Commission Law Admission Test 
+requirement of 50 marks minimum. 
+ 
+Historical Closing Merit Data — Entrance Test Based Programs 2025 
+ 
+Doctor of Pharmacy Morning program closed at 81.18%, representing the highest 
+academic closure in the entrance test based category with a minimum test score of 50 
+required. Computer Science and Software Engineering both closed at 75.36% with a 
+minimum test score of 50. Chemical Engineering for Diploma of Associate Engineering 
+candidates closed at 75.88% and 74.32% for two separate tracks with test minimum 
+scores of 40 and 50 respectively. Karachi University Business School Bachelor of Business 
+Administration closed at 72.45% with a minimum test score of 50. Food Science and 
+Technology closed at 72.27% for the pre-medical track with a minimum test score of 50. 
+Human Nutrition and Dietetics closed at 71.27% with a minimum test score of 50. Doctor 
+of Pharmacy Evening program closed at 67.64% with a minimum test score of 50. Doctor of 
+Physical Therapy closed at 60.18% with a reduced minimum test score of 45. 
+ 
+Programs that operated with significantly reduced minimum test score requirements 
+include Applied Chemistry and Chemical Technology which offered a track with a minimum 
+test score of 25 closing at 47.36%, Applied Physics with a minimum test score of 25 track, 
+Criminology with a minimum test score of 35 track, Environmental Studies with a minimum 
+test score of 35 closing at 47.55%, Public Administration with a minimum test score of 45 
+closing at 62.18%, and Teacher Education Bachelor of Education Honors with a minimum 
+test score of 30 closing at 54.73%.
+
+Programs fully exempted from the test requirement include Petroleum Technology closing 
+at 55.00%, Special Education closing at 45.00%, and Sports Business Management closing 
+at 50.18%. 
+ 
+Summary and Context 
+ 
+The University of Karachi remains the largest and most comprehensive public research 
+university in Karachi and one of the most significant higher education institutions in 
+Pakistan. Its 2025 admission cycle reflects an institution navigating a profound transitional 
+period, simultaneously functioning as a guardian of subsidized public education and a 
+revenue-generating commercial enterprise. 
+ 
+The concentration of high closing percentages in Computer Science, Pharmacy, and 
+Business Administration programs, consistently ranging from 75% to 81%, stands in sharp 
+contrast to the total collapse of entry standards to the 45% statutory floor in fundamental 
+sciences and humanities. This reflects a broader cultural shift within the applicant pool, 
+which is increasingly utilizing the university as a vocational conduit for corporate 
+employment rather than foundational academic research. 
+ 
+The Evening program operates functionally as a pay-to-play educational model: by lowering 
+open merit requirements to the 45% floor while simultaneously inflating tuition fees by 60% 
+to 117% over regular morning rates, the university has created a system where financial 
+capital, rather than academic merit, becomes the primary determinant of evening program 
+access. 
+ 
+The KSP geographical policy continues to create stark inequities, with students from 
+interior Sindh facing admission penalties of 20% to 44% higher academic requirements 
+compared to Karachi-domiciled counterparts for the same program and the same 
+remaining seats, a disparity that has drawn significant political and legislative criticism. 
+With compounding 10% annual fee escalations mandated for the 2025 batch onward, the 
+university faces the challenge of replacing geographic exclusion with economic exclusion if 
+structural reforms are not implemented.
+
+Karachi Metropolitan University (KMU)
+ Formerly: Karachi Medical and Dental College (KMDC)
+ Comprehensive Knowledge Base for RAG Training | Version: 2025-26
+SECTION 1: OVERVIEW & HISTORY
+Karachi Metropolitan University (KMU) is a public sector university located in Block M, North
+Nazimabad, Karachi, Sindh, Pakistan. It was established under the Sindh Assembly Act No. LIV of
+2023, making it a formally constituted general university under Sindh law. KMU is administered under
+the Karachi Metropolitan Corporation (KMC).
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu); Wikipedia — Karachi Metropolitan University
+KMU traces its origins to Karachi Medical and Dental College (KMDC), which was established in 1991
+by Naimatullah Khan under the Karachi Metropolitan Corporation. KMDC was Pakistan's first medical
+and dental college established and managed by a municipal corporation.
+Source: KMU Official Website — KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); Wikipedia — Karachi
+Metropolitan University; Graana.com KMDC Overview
+KMDC pioneered merit-based admissions in Pakistan by being the first government sector medical
+institution to introduce an entry test for MBBS and BDS admissions, setting a new standard in the
+national medical education sector.
+Source: KMU Official Website — KMDC Page; MBBS.org.pk KMDC Admission Profile
+KMDC initially enrolled 50 MBBS and 25 BDS students per year. Over time, annual intake grew to 250
+MBBS and 100 BDS students, reflecting its expanded capacity and recognition.
+Source: KMU Official Website — KMDC Page (thekmu.edu.pk/karachi-medical-dental-college)
+The Sindh cabinet approved the conversion of KMDC into a university on February 22, 2022. Karachi
+Mayor Barrister Murtaza Wahab formally announced that the name of Karachi Medical and Dental
+College had been changed to Karachi Metropolitan University. The institution was subsequently formally
+established through Sindh Assembly Act No. LIV of 2023.
+Source: KMU Official Website Home Page (thekmu.edu.pk); Wikipedia — Karachi Metropolitan University; The News
+International — 'KMDC transformed into Karachi Metropolitan University', September 2024
+As a university, KMU now encompasses not only its original medical and dental programs but also new
+faculties in Business Administration, Computer Sciences and Emerging Technologies, Nursing, Physical
+Therapy, and Pharmacy, among others.
+Source: KMU Official Website Welcome Message — Founding Vice Chancellor's Statement; KMU Official Website
+About Page
+The vision of KMU is to be a leading academic institution dedicated to transforming lives through
+innovation, education, and impactful research. The mission is to provide exceptional, inclusive
+education across disciplines, cultivating a learning environment that values critical thinking, ethical
+
+responsibility, and impactful knowledge, preparing graduates to address complex global challenges.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+KMU's core values are: Integrity — acting with honesty and respect in everything the institution does;
+Creativity — embracing curiosity, collaboration, and continuous improvement; Responsibility — owning
+actions, empowering others, and prioritizing wellbeing; Confidence — striving for positive change
+through self-belief and motivation.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+SECTION 2: LOCATION & CONTACT
+KMU is located at Block M, North Nazimabad Town, Karachi, Karachi City, Sindh 74700.
+Source: KMU Official Website About Page and Admissions Page (thekmu.edu.pk)
+UAN: 111-111-568. Additional contact: 0331-2228568 (also written as +92-331-2228-KMU). Email:
+info@thekmu.edu.pk. Admissions email: admissions@thekmu.edu.pk.
+Source: KMU Official Website About Page; KMU Admissions Page (thekmu.edu.pk/admissions); TheHope Blog —
+KMU Admissions 2025
+The Admissions Office is open from 9:00 AM to 2:00 PM for in-person queries. Mailing address: Karachi
+Metropolitan University Admission Office, Block M North Nazimabad Town, Karachi, Karachi City, Sindh
+74700.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions)
+Official website: thekmu.edu.pk. The legacy KMDC website (kmdc.edu.pk) is still accessible for older
+administrative records.
+Source: KMU Official Website; The News International — KMDC Transition Report, September 2024
+SECTION 3: ACADEMIC STRUCTURE & FACULTIES
+KMU is organized into six major academic schools, colleges, and departments, each offering distinct
+programs:
+Source: KMU Official Website About Page and Academics Section (thekmu.edu.pk/about-kmu)
+Karachi Medical and Dental College (KMDC) is the founding constituent of KMU. It offers the MBBS and
+BDS undergraduate degree programs, both affiliated with the University of Karachi (UoK) and
+recognized by the Pakistan Medical Commission (PMC). KMDC employs Community-Oriented Medical
+Education (COME) as a key teaching methodology.
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); PMDC.org.pk KMU Profile 2025
+College of Nursing offers nursing education programs accredited by the Pakistan Nursing Council
+(PNC). Programs include General Nursing (Generic), Midwifery, Community Nurse Aide (CNA), and
+Community Midwife (CMW). The College of Nursing is associated with Abbasi Shaheed Hospital, which
+
+provides a nursing hostel for students.
+Source: Abbasi Shaheed Hospital Official Website (ash-kmc.com); KMU Official Academics Section
+College of Pharmacy offers pharmacy education programs as a new faculty under the KMU umbrella.
+Source: KMU Official Website Academics Section (thekmu.edu.pk/college-of-pharmacy)
+Department of Physical Therapy offers the Doctor of Physical Therapy (DPT) program. Admissions for
+DPT were open in 2025 with a deadline of October 24, 2025.
+Source: KMU Official DPT Page (thekmu.edu.pk/dpt); TheHope Blog — KMU Admissions 2025
+Karachi School of Business Administration (KSBA) offers the Bachelor of Business Administration
+(BBA) program. KSBA is a new faculty added as part of the transformation from KMDC to a
+comprehensive university.
+Source: KMU Official KSBA Page (thekmu.edu.pk/ksba); TheHope Blog — KMU Admissions 2025
+Karachi Institute of Computer and Emerging Technologies (KICET) offers the BS Computer Science
+(BSCS) program. It is another newly added faculty under KMU's expanded academic portfolio.
+Source: KMU Official KICET Page (thekmu.edu.pk/kicet)
+KMU also operates a Business Incubation Center (BIC), which provides entrepreneurial and innovation
+support to students and faculty, allowing them to develop ideas into business ventures with the support
+of industry leaders.
+Source: KMU Official Website Navigation (thekmu.edu.pk/business-incubation-center); KMU Founding Vice
+Chancellor's Statement
+Abbasi Shaheed Hospital College of Nursing also provides Diploma and Certificate courses in 23
+paramedical disciplines, certified by the Sindh Medical Faculty Board.
+Source: Abbasi Shaheed Hospital Official Website (ash-kmc.com)
+SECTION 4: UNDERGRADUATE PROGRAMS
+Bachelor of Medicine and Bachelor of Surgery (MBBS) is a five-year program offered at Karachi Medical
+and Dental College (KMDC), followed by a mandatory one-year internship (house job). The curriculum
+combines rigorous theoretical education with practical clinical training at Abbasi Shaheed Hospital.
+KMDC currently admits 250 MBBS students per year.
+Source: KMU Official MBBS Page (thekmu.edu.pk/mbbs); KMU Official KMDC Page; Graana.com KMDC Overview
+Bachelor of Dental Surgery (BDS) is a five-year program followed by a mandatory one-year house job.
+KMDC admits 100 BDS students per year. Clinical dental training is provided at the college's affiliated
+dental facilities.
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); KMU BDS Page
+(thekmu.edu.pk/bachelor-of-dental-surgery)
+
+Doctor of Physical Therapy (DPT) is a five-year program in physical rehabilitation and physiotherapy.
+Admissions were open in 2025 as one of KMU's newly featured programs under the Department of
+Physical Therapy.
+Source: KMU Official DPT Page (thekmu.edu.pk/dpt); TheHope Blog — KMU Admissions 2025
+Bachelor of Business Administration (BBA) is offered at the Karachi School of Business Administration
+(KSBA). Admissions for BBA were active for the 2025 intake.
+Source: KMU Official BBA Page (thekmu.edu.pk/bba); TheHope Blog — KMU Admissions 2025
+BS Computer Science (BSCS) is offered at the Karachi Institute of Computer and Emerging
+Technologies (KICET).
+Source: KMU Official BSCS Page (thekmu.edu.pk/bscs)
+BS Nursing (Generic) programs are offered at the College of Nursing in collaboration with Abbasi
+Shaheed Hospital, accredited by the Pakistan Nursing Council.
+Source: KMU Official College of Nursing Page (thekmu.edu.pk/college-of-nursing); Abbasi Shaheed Hospital Official
+Website
+SECTION 5: POSTGRADUATE PROGRAMS
+KMU offers postgraduate training programs for medical and dental graduates in collaboration with the
+College of Physicians and Surgeons Pakistan (CPSP). These include FCPS (Fellow of the College of
+Physicians and Surgeons Pakistan) and MCPS (Member of the College of Physicians and Surgeons
+Pakistan) specialization programs.
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); Wikipedia — Karachi Metropolitan
+University; PMDC.org.pk KMU Profile
+Postgraduate programs in basic medical sciences are also available, including MPhil and PhD
+programs. These are offered in affiliation with the University of Karachi.
+Source: Graana.com KMDC Overview; Wikipedia — Karachi Metropolitan University
+KMU has an ambitious plan to help its medical, dental, pharmacy, and nursing graduates
+simultaneously prepare for and appear in international licensing examinations within their respective
+fields, such as the USMLE for medicine. This initiative is designed to create global career opportunities
+for KMU graduates.
+Source: KMU Official Website — Founding Vice Chancellor's Welcome Message (thekmu.edu.pk)
+SECTION 6: CONSTITUENT TEACHING HOSPITALS
+KMU has five affiliated and constituent teaching hospitals under the Karachi Metropolitan Corporation,
+providing students with broad clinical exposure across different specialties:
+Source: KMU Official Website About Page — Constituent Teaching Hospital Section (thekmu.edu.pk/about-kmu)
+
+Abbasi Shaheed Hospital (ASH) is the primary teaching hospital of KMU and its most important clinical
+training facility. It is located at Block 3, Nazimabad, Karachi, with a phone number of (021) 99260400.
+ASH has 850 beds and is the third largest public sector tertiary care hospital operated by the Karachi
+Metropolitan Corporation. It was inaugurated on January 2, 1974 by Prime Minister Zulfiqar Ali Bhutto. It
+also established the first trauma center in Pakistan in October 1993, designed with every emergency
+operation theatre and department within the center. ASH handles diverse emergency cases including
+trauma, cardiac events, orthopaedic injuries, neurological emergencies, neonatal emergencies,
+obstetric complications, firearm injuries, and other life-threatening conditions.
+Source: Abbasi Shaheed Hospital Official Website (ash-kmc.com); KMU Official About Page
+Karachi Institute of Heart Diseases (KIHD) is a major tertiary care teaching hospital affiliated with KMU.
+It is located at Block 16, Gulberg Town, Karachi. It has 850 beds and started functioning on June 3,
+2005. Phone: (021) 99330011.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+Karachi Institute of Kidney Disease is the second-largest kidney hospital in Karachi and is affiliated with
+KMU. It is dedicated to providing free quality healthcare to underprivileged patients. Address: Federal B
+Area, Block 6, Gulberg Town, Karachi. Phone: (021) 99333389.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+Sobhraj Maternity Home has a history dating back to 1928 and is one of the oldest maternity hospitals in
+Karachi. It was founded by Chetumal Sobhraj in memory of his wife, Mrs. Kishen Devi Sobhraj. Address:
+Robson Road, Aram Bagh, Karachi. Phone: (021) 32636088.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+Spencer Eye Hospital is the oldest specialized hospital in Pakistan, established in 1938 (or 1940), and is
+run by the Karachi Metropolitan Corporation. Address: Siddiq Wahab Road, Jinnahabad 1, Karachi.
+Phone: (021) 32731351.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+SECTION 7: ADMISSION ELIGIBILITY CRITERIA
+Eligibility requirements at KMU vary by program. For all programs, applicants must complete the online
+application on the admissions portal and meet minimum academic qualifications.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions)
+For MBBS: Applicants must have passed Intermediate (FSc Pre-Medical) or an equivalent qualification
+with a minimum of 60% marks. A-Level applicants must provide an IBCC equivalence certificate. A valid
+MDCAT score as per PMC regulations is mandatory. Sindh domicile is required for public sector seat
+allocation. The minimum age is 17 years.
+Source: KMU Official MBBS Page (thekmu.edu.pk/mbbs); KMU Official Admissions Page; PMDC.org.pk KMU Profile
+2025
+
+For BDS: Eligibility mirrors MBBS requirements — minimum 60% in FSc Pre-Medical, valid MDCAT
+score, and Sindh domicile. Some sources indicate BDS may have a slightly higher threshold of 65% in
+FSc pre-medical, though the official KMU portal states a general minimum of 60% for intermediate.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions); MBBS.org.pk KMDC Admission Profile 2023-24
+For DPT and BBA: Applicants must have completed Intermediate with at least 60% marks or equivalent.
+Applications for the 2025 intake had a deadline of October 24, 2025.
+Source: KMU Official Admissions Page; TheHope Blog — KMU Admissions 2025
+For FCPS and MCPS postgraduate programs: Applicants need a PMC-recognized MBBS or BDS
+degree and must pass the CPSP entry test for the relevant specialty. For FCPS-II, passing FCPS-I is a
+prerequisite.
+Source: PMDC.org.pk KMU Profile 2025
+For MPhil and PhD in basic medical sciences: Applicants need a relevant undergraduate or
+postgraduate degree and must meet University of Karachi's entry requirements, as these programs are
+offered in affiliation with UoK.
+Source: Graana.com KMDC Overview; Wikipedia — Karachi Metropolitan University
+SECTION 8: ENTRY TEST
+An entry test is mandatory for admission to all programs at KMU. KMDC holds the distinction of being
+the first government sector medical institution in Pakistan to introduce an entry test for MBBS and BDS
+admissions.
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); MBBS.org.pk KMDC Profile
+For MBBS and BDS, the National MDCAT (Medical and Dental College Admission Test) is mandatory,
+conducted by the Pakistan Medical Commission (PMC) through IBA Sukkur in Sindh. The MDCAT
+covers Biology, Chemistry, Physics, English, and Logical Reasoning in a 200 MCQ format, 150 minutes,
+with no negative marking. The minimum MDCAT score for MBBS eligibility is 65% (130 out of 200) and
+for BDS is 55% (110 out of 200) per PMC rules.
+Source: PMC MDCAT Regulations; PMDC.org.pk KMU Profile 2025
+The overall merit threshold for MBBS and BDS at KMU is highly competitive. A minimum aggregate of
+approximately 80% is typically required to secure a seat. Admissions are merit-based and
+top-performing candidates may be called for interviews as part of the selection process.
+Source: PMDC.org.pk KMU Profile 2025
+For DPT, BBA, and BSCS programs, KMU conducts its own internal entry test. Applicants who pass the
+test are considered for merit-based admission.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions); TheHope Blog — KMU Admissions 2025
+
+SECTION 9: APPLICATION PROCEDURE
+All applications to KMU are submitted online through the official admissions portal at
+admissions.thekmu.edu.pk. Applicants must register on the portal, fill in personal and academic details,
+upload the required documents, and pay the admission processing fee.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions)
+Step-by-step: (1) Check eligibility on the admissions portal. (2) Register and fill out the online application
+form. (3) Upload required documents including educational certificates and CNIC/B-Form and a recent
+photograph. (4) Pay the admission processing fee. (5) Submit the application before the stated
+deadline.
+Source: TheHope Blog — KMU Admissions 2025; KMU Official Admissions Page
+Incomplete applications will not be processed. For in-person queries, the Admissions Office is open
+from 9:00 AM to 2:00 PM at Block M, North Nazimabad, Karachi.
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions)
+The admission announcement for MBBS and BDS is typically published in September or October of
+each year.
+Source: MBBS.org.pk KMDC Admission Profile
+SECTION 10: REQUIRED DOCUMENTS
+Required documents for MBBS and BDS admissions include: Matric (SSC) certificate and marksheet (or
+IBCC equivalence certificate for O-Level). Intermediate (HSSC) certificate and marksheet (or IBCC
+equivalence certificate for A-Level). MDCAT score certificate. CNIC or B-Form. Passport-sized
+photographs. Sindh domicile certificate.
+Source: KMU Official Admissions Page; PMDC.org.pk KMU Profile 2025; Maqsad.io Medical Colleges Guide
+All documents must be attested and uploaded via the KMU or PMC admissions portal by the stated
+deadline. Documents submitted after the deadline will not be considered.
+Source: PMDC.org.pk KMU Profile 2025
+A-Level and O-Level students must provide IBCC equivalence certificates for both their secondary and
+higher secondary qualifications before applying.
+Source: KMU Official Admissions Page; Maqsad.io Medical Colleges Guide
+SECTION 11: CLOSING MERIT & SEAT ALLOCATION
+KMU (formerly KMDC) is one of the most competitive public sector medical institutions in Karachi. A
+minimum aggregate of approximately 80% is typically required for MBBS and BDS admissions. The
+actual closing merit varies each year depending on the applicant pool.
+Source: PMDC.org.pk KMU Profile 2025
+
+KMU currently admits 250 MBBS students and 100 BDS students annually. Seats are allocated across
+general merit, reserved, and self-finance categories as per Sindh government policies.
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college)
+The merit list for MBBS and BDS at KMU is expected to be published in November of each year on the
+KMU/PMC portal.
+Source: PMDC.org.pk KMU Profile 2025
+SECTION 12: FEE STRUCTURE
+As a public sector institution under the Karachi Metropolitan Corporation, KMU charges subsidized fees
+significantly lower than private medical colleges. The annual tuition for government medical colleges in
+Karachi, including KMU, is generally in the range of PKR 50,000 to PKR 100,000 for local students,
+though exact figures vary by program and academic year.
+Source: Maqsad.io — Top 15 Public and Private Medical Colleges in Karachi; KMU Fee Section (general guidance
+from official portal)
+Hostel accommodation at KMU is available for male and female students with fees starting at PKR
+20,000 per semester.
+Source: PMDC.org.pk KMU Profile 2025
+The historical application form fee for KMDC MBBS/BDS was Rs. 2,050 paid as a cash deposit at the
+admissions office. Fee structures are revised periodically and students should obtain the latest figures
+from the official KMU admissions portal or the admissions office directly.
+Source: RealStudy.pk — KMDC Admission Guide
+The complete and current fee structures for all programs — including tuition, examination fees,
+laboratory charges, library fees, and hostel — are published on the KMU official website and admissions
+portal. Students are advised to refer to the official prospectus and portal for the most current figures as
+fees are subject to revision.
+Source: KMU Official Website (thekmu.edu.pk); KMU Admissions Portal (admissions.thekmu.edu.pk)
+SECTION 13: SCHOLARSHIPS & FINANCIAL AID
+KMU offers several categories of financial support to its students.
+Source: PMDC.org.pk KMU Profile 2025; TheHope Blog — KMU Admissions 2025
+Merit-Based Scholarships are awarded to students with outstanding academic performance. These
+scholarships recognize and reward academic excellence throughout the course of study.
+Source: TheHope Blog — KMU Admissions 2025; PMDC.org.pk KMU Profile
+In collaboration with Ihsan Trust, KMU provides interest-free educational loans to financially deserving
+students. These loans can cover up to 50% of the tuition fee, making medical and professional
+
+education accessible to students from lower-income backgrounds.
+Source: PMDC.org.pk KMU Profile 2025 (citing kmdc.edu.pk scholarship section)
+Need-Based Financial Assistance is available for students facing financial hardship. Applications are
+assessed based on family income and financial circumstances.
+Source: TheHope Blog — KMU Admissions 2025
+Government Scholarships: KMU also facilitates access to various provincial and federal government
+scholarship programs, including Sindh Government scholarships available to public sector university
+students.
+Source: PMDC.org.pk KMU Profile 2025; TheHope Blog — KMU Admissions 2025
+SECTION 14: FACILITIES
+KMU provides well-equipped lecture halls and modern laboratories that support both theoretical and
+practical training in medicine, dentistry, nursing, computer science, and business.
+Source: Graana.com KMDC Overview; KMU Official Website
+The central KMDC library offers a vast collection of medical and dental books, journals, and online
+resources, providing a research-conducive environment for students and faculty. A separate dental
+library and a library within Abbasi Shaheed Hospital also serve students.
+Source: Graana.com KMDC Overview; KMDC Administration Page (kmdc.edu.pk/adminstration)
+The Office of Academic Performance at KMU provides personalized academic advising and learning
+support services, ensuring students receive guidance and resources throughout their academic journey.
+Source: KMU Official Website About Page (thekmu.edu.pk/about-kmu)
+Sports and recreational facilities are available, including gymnasium and sports grounds. Regular sports
+events and tournaments are organized to promote physical fitness and teamwork.
+Source: Graana.com KMDC Overview
+Student societies and clubs organize events, workshops, and competitions, providing a platform for
+students to showcase talents and develop leadership skills.
+Source: Graana.com KMDC Overview
+KMU students actively participate in community outreach programs, health camps, and public
+awareness campaigns, building a culture of social responsibility.
+Source: Graana.com KMDC Overview; KMU Official Website
+Transport facilities are available for students. A dedicated Deputy Director for Transport is listed in the
+KMDC administrative structure.
+Source: KMDC Administration Page (kmdc.edu.pk/adminstration)
+
+Hostel facilities are available separately for male and female students. The Abbasi Shaheed Hospital
+College of Nursing has a dedicated Nursing Hostel for nursing students.
+Source: PMDC.org.pk KMU Profile 2025; Abbasi Shaheed Hospital Official Website (ash-kmc.com)
+SECTION 15: GLOBAL PARTNERSHIPS & FUTURE PLANS
+KMU is forging strategic partnerships with top universities across the United States, Europe, the United
+Kingdom, Turkey, the Middle East, Southeast Asia, and Central Asia. These partnerships will enable
+student and faculty exchange programs, creating global academic networks.
+Source: KMU Official Website — Founding Vice Chancellor's Welcome Message (thekmu.edu.pk)
+KMU is working towards obtaining international accreditation for all its programs, ensuring that KMU
+degrees are recognized and respected globally.
+Source: KMU Official Website — Founding Vice Chancellor's Welcome Message; KMU About Page
+KMU plans to integrate international licensing examination preparation (such as USMLE for medicine)
+into its curriculum, allowing graduates to simultaneously pursue global career opportunities while
+completing their degrees.
+Source: KMU Official Website — Founding Vice Chancellor's Welcome Message (thekmu.edu.pk)
+KMU is investing in Faculty Development Programs to ensure educators and researchers remain at the
+forefront of their fields. The Business Incubation Center (BIC) provides entrepreneurial support for
+students and faculty to develop startup ventures with support from industry leaders and venture
+capitalists.
+Source: KMU Official Website — Founding Vice Chancellor's Welcome Message; KMU BIC Page
+(thekmu.edu.pk/business-incubation-center)
+SECTION 16: RECOGNITION & AFFILIATIONS
+KMU is recognized by the Higher Education Commission (HEC) of Pakistan as a public sector general
+university, established under Sindh Assembly Act No. LIV of 2023.
+Source: KMU Official About Page (thekmu.edu.pk/about-kmu); TheHope Blog — KMU Admissions 2025
+MBBS and BDS programs are recognized by the Pakistan Medical Commission (PMC). The College of
+Nursing is accredited by the Pakistan Nursing Council (PNC).
+Source: KMU Official KMDC Page (thekmu.edu.pk/karachi-medical-dental-college); Abbasi Shaheed Hospital Official
+Website
+MBBS and BDS degrees are awarded in affiliation with the University of Karachi (UoK), a long-standing
+academic affiliation inherited from the KMDC era.
+Source: Wikipedia — Karachi Metropolitan University; MBBS.org.pk KMDC Profile; Graana.com KMDC Overview
+
+Postgraduate FCPS and MCPS programs are conducted in recognition with the College of Physicians
+and Surgeons Pakistan (CPSP).
+Source: KMU Official KMDC Page; Wikipedia — Karachi Metropolitan University
+KMU is governed through a Syndicate headed by Prof. Dr. Wasim Qazi as Chairman. Other Syndicate
+members include Syed Hassan Ali Shah (Member of Provincial Assembly, Sindh) and Justice Omar Sial
+(Judge, High Court of Sindh, Karachi).
+Source: KMU Official Website — Syndicate Members (thekmu.edu.pk/syndicate-members)
+SECTION 17: CONTACT & ONLINE RESOURCES
+Official university website: thekmu.edu.pk
+Source: KMU Official Website (thekmu.edu.pk)
+Official admissions portal: admissions.thekmu.edu.pk
+Source: KMU Official Admissions Page (thekmu.edu.pk/admissions)
+Physical address: Block M, North Nazimabad Town, Karachi, Karachi City, Sindh 74700.
+Source: KMU Official Website About Page and Admissions Page
+Phone: UAN 111-111-568 | 0331-2228568. Email: info@thekmu.edu.pk | admissions@thekmu.edu.pk.
+Source: KMU Official Website; TheHope Blog — KMU Admissions 2025
+Abbasi Shaheed Hospital (primary teaching hospital): ash-kmc.com. Phone: (021) 99260400. Address:
+Block 3, Nazimabad, Karachi 74600.
+Source: KMU Official About Page; Abbasi Shaheed Hospital Official Website (ash-kmc.com)
+Students are advised to always verify the latest information directly from the official KMU website
+(thekmu.edu.pk) and admissions portal, as deadlines, fee structures, seat categories, and program
+details are updated each academic session.
+Source: KMU Official Website — General Advisory
+
+ned.md 2026-04-08
+1 / 6
+Institutional Identity and History
+NED University of Engineering and Technology, commonly known as NEDUET, is the premier public
+engineering university in Sindh, Pakistan.
+History: It was originally founded in 1921 as the Prince of Wales Engineering College, a specialized civil
+engineering institution. In 1924, it was renamed after Nadirshaw Edulji Dinshaw, following a
+philanthropic endowment by his heirs.
+University Status: On March 1, 1977, the institution was officially upgraded to university status,
+transforming into a comprehensive public research university.
+Campus Infrastructure
+Due to space constraints at its original location, NEDUET relocated in 1975 to its current Main Campus, which
+spans 156 acres on University Road, Karachi. Today the university operates across multiple campuses:
+Main Campus: Houses the primary engineering and science faculties.
+City Campus: Located in the older part of Karachi, dedicated to Architecture and Planning.
+LEJ Campus: Focuses on Bio-Medical and Food Engineering.
+TIEST (Thar Institute): A constituent college located in Mithi addressing the educational needs of
+students in remote regions of Sindh.
+Academic Programs
+NEDUET offers a wide range of highly competitive undergraduate programs. All engineering programs are
+accredited by the Pakistan Engineering Council (PEC) under the Washington Accord Level II, and computing
+degrees are accredited by the National Computing Education Accreditation Council (NCEAC).
+B.E. (Engineering) Programs
+Automotive Engineering
+Biomedical Engineering
+Chemical Engineering
+Civil Engineering (Offered at Main Campus and Thar Campus)
+Computer Systems Engineering
+Construction Engineering
+Electrical Engineering
+Electronic Engineering
+Food Engineering
+Industrial and Manufacturing Engineering
+Materials Engineering
+Mechanical Engineering
+Metallurgical Engineering
+Petroleum Engineering
+Polymer and Petroleum Engineering
+
+ned.md 2026-04-08
+2 / 6
+Software Engineering
+Telecommunication Engineering
+Textile Engineering
+Urban Engineering
+B.S. and Applied Sciences Programs
+Applied Physics
+Artificial Intelligence
+Computational Finance
+Computer Science and Information Technology (Offered at Main Campus and Thar Campus)
+Cyber Security
+Data Sciences
+Development Studies
+Economics and Finance
+English Linguistics
+Gaming and Animation
+Industrial Chemistry
+Management Sciences
+Textile Sciences
+Architecture Program
+Architecture: 5-year Bachelor of Architecture (B.Arch) degree offered exclusively at the City Campus.
+Admission Policy (2025-2026)
+Merit Formula
+For the 2025-2026 academic cycle, NEDUET has implemented a significant change in its admission policy to
+standardize assessment across diverse educational backgrounds (A-Levels, Sindh Boards, Federal Board).
+The Approved Formula: Merit Score = 40% of the HSC (or equivalent) result + 60% of the NED Entry
+Test score.
+Eligibility Criteria
+B.E. and Architecture Programs: Minimum 60% aggregate in HSC Pre-Engineering or equivalent.
+Computer Science (BSCS) & Software Engineering: Minimum 60% aggregate. Open to both Pre-
+Engineering and General Science students who have studied Computer Science, Statistics, or
+Mathematics.
+Other BS Programs (Industrial Chemistry, Physics, Textile Sciences, etc.): Minimum 50% aggregate.
+Admission Categories
+Regular Scheme: Offers heavily subsidized seats.
+Category R-1(a): Karachi domicile (largest seat allocation).
+Category R-2: Sindh domicile from outside Karachi.
+
+ned.md 2026-04-08
+3 / 6
+Categories R-3 and R-4: Federal Board and A-Level candidates respectively.
+Self-Finance Scheme: For candidates who do not meet the Regular merit cutoff.
+Categories SF-1 to SF-5: Sindh domicile students under self-finance.
+Categories SF-6 to SF-11: Sponsor seats reserved for overseas Pakistanis and foreign nationals.
+Application Process
+1. Registration: Register online via the NED Admission Portal.
+2. Fee Payment: Pay the application fee of approximately PKR 5,000 via a fee voucher at NBP or Habib
+Metro Bank.
+3. Entry Test: Appear for the Computer-Based Test (CBT) held at the Main Campus.
+4. Interview: Successful candidates attend an interview to select preferred disciplines based on merit
+ranking.
+Entry Test Details
+The NED Pre-Admission Entry Test is a mandatory Computer-Based Test (CBT).
+Format: 2 hours (120 minutes), 100 Multiple Choice Questions (MCQs). No negative marking.
+Requirement: Minimum score of 50% is mandatory for admission consideration.
+Exemptions: Foreign/overseas candidates may be exempted if they achieve a minimum score of 800
+on SAT-I and 1500 on SAT-II. Local candidates MUST take the NED Entry Test regardless of other
+qualifications.
+Syllabus Groups (4 sections, 25 marks each)
+Pre-Engineering: English, Mathematics, Physics, Chemistry.
+Computer Science: English, Mathematics, Physics, Computer Science.
+Pre-Medical: English, Physics, Chemistry, Biology.
+General Science: English, Basic Mathematics, General Knowledge, Second English paper.
+Fee Structure (2025-2026 Estimates)
+NEDUET operates a dual-track financial model.
+Regular Scheme Fees
+One-time Admission Fee: Approximately Rs. 43,000.
+Per-Semester Fee: Approximately Rs. 30,900.
+First Semester Total: Estimated between Rs. 75,000 and Rs. 80,000 (includes admission fee).
+Self-Finance Scheme Fees
+Self-Finance students pay the regular semester fees PLUS a one-time lump-sum Self-Finance fee:
+Local Sindh Domicile (SF-1 to SF-5): Rs. 855,000 lump-sum.
+Sponsored Seats (Overseas/Foreign, SF-6+): Rs. 1,065,000 lump-sum.
+
+ned.md 2026-04-08
+4 / 6
+Refund Policy (HEC Standards)
+First 7 Days of Classes: 100% refund of tuition fees.
+8th to 15th Day of Classes: 50% refund.
+After 15th Day: No refund.
+Admission Fee: Non-refundable under any circumstances.
+Financial Aid
+Undergraduate Fellowship: A program worth Rs. 233 million to prevent dropouts due to financial
+difficulties.
+Scholarships: HEC Need-Based Scholarships, MaaJee Endowment Fund (alumni funded), Orange Tree
+Foundation, and Ihsan Trust.
+Campus Facilities
+Transport System
+NEDUET operates a fleet of Point Buses serving all major districts of Karachi (Orangi, Malir, North
+Nazimabad, Lyari, Korangi).
+Semester transport passes are highly subsidized and cost approximately Rs. 2,250.
+Hostel (Residential) Facilities
+Maintains functional residential hostels for both male and female students.
+Boys' Hostels: Muhammad Bin Qasim (MBQ) Hostels I and II. Dormitory accommodation is approx. Rs.
+805/month; cubicle accommodation is approx. Rs. 1,035/month.
+Girls' Hostel: A secure on-campus facility is available.
+All hostels feature common rooms, Wi-Fi access, and student-managed dining (messing) facilities.
+Research Centers and Student Life
+Hosts nationally important research centers: National Center for Cyber Security (NCCS), National Center
+for Robotics and Automation (NCRA), and National Center for Artificial Intelligence (NCAI).
+Book Bank Program: Run by the Engr. Abul Kalam Library, allowing students to rent a full semester's
+worth of textbooks for only 10% of their retail cost.
+Historical Closing Merit Data (2021–2024)
+IMPORTANT NOTE: Data is based on the previous admission formula (higher HSC weightage). The new 40:60
+formula introduced in 2025 may shift these thresholds. Use as approximate benchmarks only.
+Software Engineering (SE): 86.86% (2024), 86.86% (2023), 91.50% (2022), 83.35% (2021). Consistently
+the most competitive.
+Computer Systems Engineering (CIS/CS): 83.90% (2024), 83.90% (2023), 89.18% (2022), 83.61%
+(2021).
+
+ned.md 2026-04-08
+5 / 6
+CS and Information Technology (BCIT/CT): 84.27% (2024), 84.27% (2023), 89.45% (2022), 83.59%
+(2021).
+Data Sciences (DS): 83.73% (2023), 88.40% (2022).
+Artificial Intelligence (AI): 83.50% (2023), 88.14% (2022).
+Cyber Security (CY): 83.23% (2023), 87.82% (2022).
+Gaming and Animation: 82.64% (2023).
+Electrical Engineering (EE): 79.41% (2024), 79.41% (2023), 85.82% (2022), 78.74% (2021).
+Electronic Engineering (EL): 76.02% (2024), 76.82% (2023), 83.41% (2022), 75.25% (2021).
+Mechanical Engineering (ME): 73.06% (2024), 73.86% (2023), 82.86% (2022), 77.67% (2021).
+Industrial and Manufacturing Engineering (IM): 73.00% (2024), 73.60% (2023), 82.14% (2022),
+76.04% (2021).
+Chemical Engineering (CH): 71.90% (2024), 73.32% (2023), 80.32% (2022), 74.00% (2021).
+Computational Finance (CF): 72.73% (2024), 72.73% (2023), 77.91% (2022), 72.00% (2021).
+Telecommunication Engineering (TC): 71.68% (2024), 71.68% (2023), 80.50% (2022), 73.69% (2021).
+Civil Engineering (CE): 69.00% (2024), 70.18% (2023), 79.00% (2022), 73.65% (2021).
+Textile Engineering (TEY): 69.32% (2024), 69.32% (2023), 79.36% (2022), 74.89% (2021).
+Food Engineering (FE): 68.27% (2024), 68.27% (2023), 80.27% (2022), 72.00% (2021).
+Architecture (AR): 67.45% (2024), 67.45% (2023), 76.77% (2022), 71.05% (2021).
+Construction Engineering (CN): 66.00% (2024), 66.64% (2023), 77.86% (2022), 72.64% (2021).
+Petroleum Engineering (PE): 65.00% (2024), 65.77% (2023), 76.13% (2022), 71.25% (2021).
+Urban Engineering (UE): 63.40% (2024), 63.41% (2023), 76.45% (2022), 72.00% (2021).
+Biomedical Engineering (BM): 66.30% (2024), 62.77% (2023), 72.50% (2022), 73.00% (2021).
+Materials Engineering (MM): 64.44% (2024), 62.36% (2023), 75.00% (2022), 70.75% (2021).
+Automotive Engineering (AU): 68.32% (2024), 68.32% (2023), 78.95% (2022), 73.04% (2021).
+Management Sciences (MG): 69.14% (2024), 69.14% (2023), 77.00% (2022), 66.00% (2021).
+Metallurgical Engineering (MY): 63.45% (2024), 60.77% (2023), 74.00% (2022), 67.00% (2021).
+Polymer and Petroleum Engineering (PP): 60.55% (2024), 60.55% (2023), 72.00% (2022), 70.00%
+(2021).
+Applied Physics (AP): 60.02% (2024), 60.09% (2023), 73.00% (2022), 58.00% (2021).
+Development Studies (DS): 60.09% (2024), 60.91% (2023), 75.00% (2022), 60.00% (2021).
+Economics and Finance (EC): 61.36% (2024), 61.36% (2023), 71.50% (2022), 65.00% (2021).
+English Linguistics: 59.34% (2024), 60.73% (2023), 76.00% (2022), 63.00% (2021).
+Industrial Chemistry (IC): 59.34% (2024), 59.54% (2023), 73.20% (2022), 58.00% (2021).
+Textile Sciences (TS): 61.05% (2024), 61.05% (2023), 73.32% (2022), 59.00% (2021).
+Civil Engineering — Thar Campus: 59.27% (2024), 57.50% (2023), 62.00% (2022), 60.00% (2021).
+Computer Science — Thar Campus: 57.50% (2024), 59.27% (2023), 61.00% (2022), 59.00% (2021).
+Summary and Context
+NED University of Engineering and Technology remains the most prestigious engineering institution in Sindh
+and one of the top engineering universities in Pakistan. The 2025-2026 academic year marks a significant shift
+in its admission policy, with aptitude testing (the NED Entry Test) now carrying 60% of the merit weight. This
+change is intended to create a more equitable and standardized admissions process for students from
+different educational systems. With accessible financial aid, on-campus hostel facilities for both male and
+female students, a subsidized transport network, and PEC accreditation under the Washington Accord,
+
+ned.md 2026-04-08
+6 / 6
+NEDUET offers an internationally recognized engineering education at a highly affordable cost for Regular
+Scheme students.
+
+Sirsyed 
+ 
+1 / 5 
+ 
+Institutional Identity and History 
+(From Official SSUET Website — ssuet.edu.pk/about-us and Wikipedia — Sir Syed 
+University of Engineering and Technology) 
+ 
+Sir Syed University of Engineering and Technology, commonly known as SSUET, is a private 
+research university located in Gulshan-e-Iqbal, Karachi, Sindh, Pakistan. The university is 
+named in honor of the notable 19th-century Muslim reformer, educationist, and philosopher 
+Sir Syed Ahmad Khan, whose Aligarh Movement formed the ideological foundation of the 
+institution. 
+ 
+History: The university came into being on 8 October 1993, founded by Z.A. Nizami, who 
+was also the former Director General of the Karachi Development Authority and President 
+of the Aligarh Muslim University Old Boys Association, commonly known as AMUOBA. Its 
+Charter formalities were completed by an Act passed by the Sindh Assembly on 17 
+September 1995, granting it the status of a degree-awarding institution. The university was 
+established in the spirit of the Aligarh Movement — to advance modern scientific and 
+technological education among the youth of Pakistan. 
+ 
+Motto: The official motto of the university is the Quranic verse meaning “He (Allah) has 
+taught man that which he knew not. ” The university colors are purple, gold, and olive green. 
+ 
+Recognition and Rankings: SSUET is fully recognized by the Higher Education Commission 
+of Pakistan. It is ranked among the top universities in Pakistan in the engineering and 
+technology category by the Higher Education Commission. The university is also a member 
+of the Association of Commonwealth Universities of the United Kingdom and a member of 
+the International Association of Universities.
+
+Campus Infrastructure 
+(From Official SSUET Student Handbook — ssuet.edu.pk and Wikipedia) 
+ 
+Main Campus: The primary campus of SSUET is situated at the intersection of University 
+Road and Sardar Ali Sabri Road, in the heart of Gulshan-e-Iqbal Block-5, Karachi. This 
+campus houses all engineering, computing, sciences, and business faculties. All 
+classrooms, laboratories, and administrative offices are air-conditioned and equipped to 
+international standards. 
+ 
+Sir Syed Tower: A secondary facility located opposite the Supreme Court Registry, near 
+Shaheen Complex, in the downtown area of Karachi. At Sir Syed Tower, short courses in 
+Information Systems and Cyber Security are conducted. Additional educational programs 
+are planned for this facility in the future given its strategically central location. 
+ 
+Future Campus — Education City: An area of 200 acres has been earmarked for SSUET in 
+Karachi’s Education City, situated along the link road connecting the Super Highway and 
+National Highway. The university has already established a site office, developed water 
+infrastructure, and carried out plantation and survey work at this future campus location. 
+The campus development is currently ongoing. 
+ 
+Academic Programs 
+(From Official SSUET Admissions Page — ssuet.edu.pk/admissions and 
+admissionscorner.com — Fall 2025 Admissions) 
+ 
+SSUET is organized into four main faculties: the Faculty of Electrical and Computer 
+Engineering, the Faculty of Computing and Applied Sciences, the Faculty of Civil 
+Engineering and Architecture, and the Faculty of Business Management and Social 
+Sciences. All engineering programs hold Pakistan Engineering Council accreditation. 
+ 
+Bachelor of Science Engineering Programs
+
+The following Bachelor of Science Engineering programs are offered at SSUET: Biomedical 
+Engineering, Computer Engineering, Civil Engineering, Electronic Engineering, Electrical 
+Engineering, and Telecommunication Engineering. 
+ 
+Bachelor of Science Technology Programs 
+ 
+The following Bachelor of Science Technology programs are offered: Bachelor of Science in 
+Civil Engineering Technology, Bachelor of Science in Electronic Engineering Technology, 
+and Bachelor of Science in Electrical Engineering Technology. 
+ 
+Bachelor of Architecture 
+ 
+The Bachelor of Architecture is a five-year undergraduate program offered at SSUET. 
+ 
+Bachelor of Science Computing and Applied Sciences Programs 
+ 
+The following Bachelor of Science programs are offered under the Faculty of Computing 
+and Applied Sciences: Computer Science, Software Engineering, Information Technology, 
+Cyber Security, Mobile Communication and Security, Bioinformatics, Mathematics, 
+Biotechnology, Biomedical Sciences, Clinical Psychology, and Food Science and 
+Technology. 
+ 
+Business Programs 
+ 
+The Bachelor of Business Administration is offered as a four-year program. A two-year 
+Bachelor of Business Administration program is also available exclusively for students who 
+already hold a 14-year undergraduate degree. 
+ 
+Postgraduate Programs — Master of Science
+
+Master of Science programs are offered in Biomedical Engineering, Computer Engineering, 
+Electrical Engineering, Electronic Engineering, Telecommunication Engineering, Computer 
+Science, Software Engineering, Mathematics, and Civil Engineering. A Master of Business 
+Administration program is also offered. 
+ 
+Postgraduate Programs — MPhil 
+ 
+MPhil admissions are open in the following disciplines: Biomedical Engineering, Computer 
+Engineering, Civil Engineering, Electronic Engineering, Electrical Engineering, 
+Telecommunication Engineering, Computer Science, Software Engineering, and 
+Mathematics. 
+ 
+Doctoral Programs — PhD 
+ 
+PhD programs are currently offered in Biomedical Engineering, Electronic Engineering, and 
+Mathematics. 
+ 
+Admission Policy (2025-2026) 
+(From Official SSUET Undergraduate Admissions Page — 
+ssuet.edu.pk/admissions/undergraduate-admissions and ilmkidunya.com — SSUET 
+Karachi Admissions 2025) 
+ 
+Merit Formula 
+ 
+Admission merit at SSUET is calculated based on a combination of the applicant’s previous 
+academic record, specifically the Higher Secondary Certificate result, and the 
+performance in the SSUET Entry Test. The final merit list is generated after the entry test 
+results are processed and candidates are ranked accordingly.
+
+Eligibility Criteria 
+ 
+For undergraduate programs, students must have passed the Higher Secondary Certificate 
+examination or an equivalent qualification with the required minimum percentage for their 
+chosen program. Students who are currently registered for Higher Secondary Certificate 
+Part Two or equivalent supplementary examinations in 2025 may also apply on a 
+provisional basis, provided they submit a current Admit Card or Statement of Entry. 
+Admission remains provisional until final results are submitted and eligibility is confirmed 
+within the specified deadline. 
+ 
+Pre-Medical students are eligible to apply for Computing and Technology programs. 
+However, they must successfully complete a Mathematics Foundation Course during their 
+first year at the university as a mandatory deficiency requirement. 
+ 
+Students from equivalent boards, including those with Cambridge Ordinary Level and 
+Advanced Level qualifications, must submit an Inter Board Committee of Chairmen 
+equivalence certificate in order to proceed with their admission. 
+ 
+For postgraduate Master of Science programs, candidates must hold an appropriate 
+undergraduate degree and must have passed the SSUET Graduate Assessment Test or a 
+National Testing Service General Aptitude Test with a minimum of 50% marks prior to 
+admission. A mandatory interview conducted by the Departmental Postgraduate 
+Committee must also be cleared. 
+ 
+For PhD programs, candidates must hold a recognized Master of Science, Master of 
+Philosophy, or equivalent degree with a minimum Cumulative Grade Point Average of 3.0 
+out of 4.0 or First Division in the annual system. The SSUET Graduate Assessment Test or 
+Higher Education Commission Approved General Aptitude Test must be passed with a 
+minimum of 60% marks. A statement of purpose and a departmental interview are also 
+required. 
+ 
+Admission Categories
+
+SSUET offers admissions under two categories. The Open Merit category is for students 
+who qualify based on their academic record and entry test performance. The Self-Finance 
+category is available for students who do not meet the open merit cutoff but still wish to 
+secure a seat at the university at a higher fee. 
+ 
+Application Process 
+ 
+Students must apply online through the SSUET admissions portal available on the official 
+university website. The application fee voucher must be paid at MCB Bank and uploaded to 
+the portal. Payments made through the PAYPRO online option are verified automatically. 
+Payments made close to the deadline take two to three working days to verify. Inter-bank 
+Fund Transfer payments are not permitted. On-campus payment is available on the day of 
+the entry test for students who missed the deadline. 
+ 
+Entry Test Details 
+(From Official SSUET Undergraduate Admissions Page — 
+ssuet.edu.pk/admissions/undergraduate-admissions/admission-test-details and 
+ilmkidunya.com) 
+ 
+The SSUET Entry Test is a mandatory component of the undergraduate admission process. 
+The test is conducted on campus and students must carry their admit card, original 
+National Identity Card or Bay Form, a paid test fee voucher, stationery, and a calculator. 
+Mobile phones and smart watches are strictly prohibited during the examination. 
+ 
+Students have the flexibility to choose the type of entry test based on their subject 
+background from intermediate or equivalent qualifications. The test is designed to assess 
+aptitude across the relevant subjects of study. 
+ 
+Entry Test Exemption: SSUET allows exemption from its own entry test for students who 
+have already appeared in and passed any of the following tests in 2025: the Undergraduate
+
+Scholastic Assessment Test, the NED University Entry Test, the Mehran University of 
+Engineering and Technology Entry Test, the National Testing Service test, the Educational 
+Testing and Evaluation Agency test, the Medical and Dental College Admission Test, or any 
+Public Sector University Entry Test. Students can claim exemption by uploading a valid 
+scorecard with their application or by visiting the Admissions Office before the deadline. 
+Exempted students may still optionally attempt the SSUET test to improve their score, in 
+which case the highest score will be used in merit calculation. 
+ 
+Fee Structure (2025-2026) 
+(From SSUET Official Fee Structure Page — ssuet.edu.pk/charges, SSUET Revised Fee 
+Components Notification — ssuet.edu.pk, and Scribd Document — Sir Syed University Fee 
+Structure 2025) 
+ 
+SSUET charges fees on a per-credit-hour basis combined with a set of fixed semester 
+charges. The one-time admission fee for all engineering programs is Rs. 35,000. The 
+security deposit is Rs. 5,000, the enrollment fee is Rs. 3,000, and the medical fee is Rs. 
+1,500. Additional fixed semester charges include a Book Bank membership fee, a Student 
+Activity fee of Rs. 1,050, a Network Charges fee of Rs. 1,000, a Laboratory fee of Rs. 1,000, 
+and an Examination fee of Rs. 4,000. A Semester Fee of Rs. 11,000 is also charged each 
+semester. 
+ 
+Tuition is charged at a per-credit-hour rate. For the Computer Science program as an 
+illustrative example, the per-credit-hour rate results in a tuition component of 
+approximately Rs. 69,700 for a standard 17-credit-hour semester load, bringing the total 
+first semester fee to approximately Rs. 128,100 including all charges and the one-time 
+admission fee. 
+ 
+A withholding tax of 5% is applicable in cases where the total fee paid during a financial 
+year exceeds Rs. 200,000. Fee refunds for new admissions follow the rules of regulatory 
+bodies. 
+ 
+Fee for International Students: A separate fee structure in United States Dollars is 
+applicable for international students and covers the same program categories of
+
+Biomedical Engineering, Civil Engineering, Electrical Engineering, and Mathematics among 
+others. Students are advised to contact the admissions office for the current international 
+fee schedule. 
+ 
+Semester Freezing: A student may freeze a semester within 15 days of the commencement 
+of classes by paying the semester fee. Students who study beyond the standard four-year 
+duration and wish to take nine or more credit hours after the fourth year must pay the 
+semester fee in addition to the credit-hour fee. 
+ 
+Scholarships and Financial Assistance 
+(From SSUET Official Scholarship Notification and Criteria — ssuet.edu.pk/students and 
+Studocu — SSUET Scholarship Criteria 2022) 
+ 
+SSUET offers internal scholarships and financial assistance to eligible students every 
+semester. The scholarship grant covers 48% to 54% of the tuition fee and is awarded based 
+on academic merit and financial need. The university scholarship program is designed to 
+prevent financial difficulties from being a barrier to academic continuity. 
+ 
+Scholarship categories include merit-based awards for students who achieve the highest 
+academic performance in their semester, brother and sister category awards for families 
+with two or more students enrolled simultaneously at SSUET, and financial assistance for 
+genuinely deserving students facing economic hardship. 
+ 
+Key conditions governing the scholarship program are as follows. Only students who are 
+regular and enrolled in a full course load in the previous semester are eligible to apply. 
+Students who have cleared any subject through supplementary or resit examinations are 
+not eligible for scholarship for that semester. Students in their 8th semester, or their 10th 
+semester in the case of Architecture students, are not eligible to apply. Sons and daughters 
+of SSUET staff members are not eligible. Students who are already receiving a scholarship 
+from any external source are not eligible for SSUET scholarships simultaneously. A freeship 
+award means 100% of the tuition fee is waived. The decision of the Scholarship Committee 
+is final and cannot be challenged. The Gold Medal awarded at convocation requires a 
+minimum Cumulative Grade Point Average of 3.5.
+
+External scholarships available to SSUET students include Higher Education Commission 
+Need-Based Scholarships and international grants such as the Heydar Aliyev International 
+Education Grant Program for Non-Aligned Movement member states. 
+ 
+Campus Facilities 
+(From SSUET Student Handbook — ssuet.edu.pk/wp-content/uploads/Student-Hand-
+Book.pdf and Wikipedia — Sir Syed University of Engineering and Technology) 
+ 
+Library: The SSUET library maintains a large collection organized across general, 
+engineering, technology, Islamic studies, and reference sections. A donated books section 
+is maintained separately. A Book Bank program allows students to rent textbooks at a 
+subsidized cost for the entire semester. 
+ 
+Sports: The university has a sports ground located in front of the main gate, which includes 
+a basketball court, volleyball ground, and cricket pitch for net practice. Indoor facilities 
+include table tennis and badminton. Steps are in progress for developing hockey and 
+football grounds. 
+ 
+Health Center: An on-campus health center and ambulance service are available for 
+students and staff. 
+ 
+Mosque and Prayer Areas: A mosque is located within the campus. Dedicated prayer areas 
+and girls’ common rooms are also available for female students. 
+ 
+Student Facilitation Center: A centralized student facilitation center enables students to 
+access administrative departments including Examinations, Finance, and the Scholarship 
+Office from a single point.
+
+Career Planning and Placement Bureau: This bureau is dedicated to establishing liaison 
+between graduates and employers. Services include internship facilitation, employer visits, 
+career counseling, industrial tours, job fairs, research collaboration, and workshop 
+organization. The SSUET Job Fair is held annually, bringing together employers from 
+technology, engineering, and business sectors. 
+ 
+Student Societies and Cultural Activities: The university hosts a Literary Arts and Cultural 
+Forum. Annual musical and cultural events are held. Students are encouraged to form 
+clubs and societies including drama societies, book reading clubs, and debate forums. 
+ 
+Quality Assurance: The Quality Enhancement Cell appoints a coordinator at each 
+departmental level to bridge the gap between students and the cell. Teacher and course 
+evaluation is compulsory for all students every semester. 
+ 
+IEEE Student Branch: The Institute of Electrical and Electronics Engineers student branch 
+at SSUET comprises five sub-branches: the Computer Society, the Engineering in Medicine 
+and Biology Society, the Power and Energy Society, the Robotics and Automation Society, 
+and the Women in Engineering Society. 
+ 
+Refund Policy 
+(From SSUET Fee Structure Document — ssuet.edu.pk/charges and SSUET Student 
+Handbook) 
+ 
+Fee refunds at SSUET follow the rules of the regulatory bodies and the Higher Education 
+Commission of Pakistan. Students who wish to freeze a semester must do so within 15 
+days of the commencement of classes by submitting the required fee. The one-time 
+admission fee is non-refundable. Specific refund timelines for tuition fee follow Higher 
+Education Commission national guidelines, which provide for a full refund if withdrawal 
+occurs within the first week of classes, a partial refund in the second week, and no refund 
+thereafter. 
+ 
+Summary and Context
+
+(From Official SSUET Website, Wikipedia, and uniRank — Sir Syed University 2025) 
+ 
+Sir Syed University of Engineering and Technology stands as one of the most established 
+private engineering universities in Karachi and Pakistan. With over three decades of 
+operation since its founding in 1993, the university has built a strong reputation for 
+engineering and technology education grounded in the reformist values of the Aligarh 
+Movement. 
+ 
+The university offers the highest number of engineering programs in the private sector in 
+Karachi, with all programs carrying Pakistan Engineering Council Level Two accreditation. 
+Its broad portfolio covering engineering, computing, biosciences, architecture, and 
+business provides students with a wide range of professionally oriented pathways. The 
+entry test exemption policy for students who have already cleared any recognized public 
+sector university or national test significantly reduces the admission barrier, making the 
+process more accessible and streamlined. With a scholarship program covering nearly half 
+the tuition for high-performing students and a growing campus infrastructure including the 
+planned Education City campus, SSUET continues to expand its capacity and academic 
+reach within Karachi and Sindh.
+
+Shaheed Mohtarma Benazir Bhutto Medical College
+ (SMBBMC)
+ Lyari, Karachi — Comprehensive Knowledge Base for RAG Training
+ Version: 2025-26 | Verified Against Official and Cross-Referenced Sources
+SECTION 1: OVERVIEW & HISTORY
+Shaheed Mohtarma Benazir Bhutto Medical College (SMBBMC) is a public sector government medical
+college located in Lyari, Karachi, Sindh, Pakistan. The college is named in honor of Shaheed Mohtarma
+Benazir Bhutto, the former Prime Minister of Pakistan, to commemorate her legacy of service to
+Pakistan's underprivileged communities.
+Source: SMBBMC Official Website About Page (smbbmcl.edu.pk/about.html); Wikipedia — SMBBMC Lyari
+SMBBMC opened in March 2011 with financial support from the Government of Pakistan. It was
+established to serve the healthcare and medical education needs of the working class and underserved
+populations of Lyari and surrounding areas of Karachi.
+Source: Wikipedia — Shaheed Mohtarma Benazir Bhutto Medical College Lyari; Daily Times Pakistan — 'Medical
+college opens in Lyari', March 10, 2011
+SMBBMC is part of the Lyari General Postgraduate Medical Centre, commonly known as Lyari General
+Hospital, which serves as the primary affiliated teaching hospital of the college. The hospital is fully
+equipped with clinical departments for undergraduate and postgraduate training.
+Source: Wikipedia — SMBBMC Lyari; Ilmkidunya.com SMBBMC Profile
+The college was formerly affiliated with Dow University of Health Sciences (DUHS). For the purposes of
+Karachi district MBBS and BDS admissions, SMBBMC Lyari is now part of the broader Sindh public
+sector admission system coordinated through DUHS and JSMU. For interior Sindh reserved seats, the
+college operates under the affiliation of Shaheed Mohtarma Benazir Bhutto Medical University
+(SMBBMU), Larkana.
+Source: DUHS Admissions Portal (admissions.duhs.edu.pk) — SMBBMC Merit Lists 2025-26; SMBBMU Larkana
+Admissions Page
+The college is recognized by the Pakistan Medical Commission (PMC), formerly known as the Pakistan
+Medical and Dental Council (PM&DC;). It is a public sector institution governed and funded by the
+Government of Sindh.
+Source: Ilmkidunya.com SMBBMC Lyari Profile; Eduvision.edu.pk SMBBMC Profile
+The mission of SMBBMC is to provide exceptional medical education, produce competent healthcare
+professionals, and contribute to the improvement of community health. The college aims to nurture
+students with knowledge, skills, and ethical values necessary for compassionate patient care, scientific
+research, and community service.
+Source: SMBBMC Official Website About Page (smbbmcl.edu.pk/about.html)
+
+The vision of SMBBMC is to be a leading medical institution recognized for excellence in education,
+research, and healthcare delivery. The college strives to produce graduates who excel in their medical
+specialties, make significant contributions to medical advancements, and demonstrate a commitment to
+serving the community. SMBBMC fosters innovation, critical thinking, professionalism, and a
+patient-centered approach to healthcare.
+Source: SMBBMC Official Website About Page (smbbmcl.edu.pk/about.html)
+SECTION 2: LOCATION & CONTACT
+SMBBMC is located beside Lyari General Hospital, Tennery Road, Lyari, Karachi, Sindh, Pakistan.
+Postal Code: 75660.
+Source: Eduvision.edu.pk SMBBMC Profile; GoTest.com.pk SMBBMC Profile
+Phone: 021-32540055 / 021-32540058. Email: smbbmclyari@gmail.com. Official website:
+smbbmcl.edu.pk.
+Source: Eduvision.edu.pk SMBBMC Profile; Facebook Page of SMBBMC
+The Admissions Office is located in the Admin Block of SMBBMC Lyari. Hard copy admission forms and
+documents are to be submitted to the Admin Block, SMBBMC Lyari, Karachi.
+Source: Result.pk — SMBBMC BSN Admission Notice 2025; SMBBMC Official Admission Advertisements
+SECTION 3: UNDERGRADUATE PROGRAMS
+SMBBMC offers undergraduate degree programs in medicine, dentistry, nursing, and allied health
+sciences.
+Source: Ilmkidunya.com SMBBMC Lyari Profile; GoTest.com.pk SMBBMC Profile
+Bachelor of Medicine and Bachelor of Surgery (MBBS) is a five-year undergraduate medical degree
+program. The curriculum combines theoretical medical sciences with practical clinical training at the
+attached Lyari General Hospital. The program follows the national curriculum as prescribed by the
+Pakistan Medical Commission (PMC).
+Source: Ilmkidunya.com SMBBMC Profile; Wikipedia — SMBBMC Lyari
+Bachelor of Dental Surgery (BDS) is offered at SMBBMC as a four-year undergraduate dental degree
+program. Clinical training is provided at the attached teaching hospital facilities.
+Source: Ilmkidunya.com SMBBMC Profile; DUHS Admissions Portal — BDS Merit Lists for SMBBMC 2025-26
+BS Nursing (BSN) Generic 4-Year Degree Program is offered in collaboration with Sindh Government
+Lyari General Hospital, Karachi. The program is offered in the Evening Shift and is open to both male
+and female candidates. Separate seats are allocated for the College of Nursing Male Lyari and Ayaz
+Samoon Nursing College Female Lyari. The current active session is 2025-2028.
+Source: SMBBMC Official BSN Admission Advertisement 2025; Result.pk — SMBBMC BSN Admission 2025
+
+Doctor of Physical Therapy (DPT) is a five-year allied health program offered at SMBBMC. It focuses on
+physiotherapy and physical rehabilitation.
+Source: GoTest.com.pk SMBBMC Programs List; Ilmkidunya.com SMBBMC Profile
+SECTION 4: POSTGRADUATE PROGRAMS
+SMBBMC offers postgraduate specialty training programs affiliated with the College of Physicians and
+Surgeons Pakistan (CPSP). These are clinical residency-based training programs leading to FCPS
+(Fellow of the College of Physicians and Surgeons Pakistan) and MCPS (Member of the College of
+Physicians and Surgeons Pakistan) qualifications.
+Source: Ilmkidunya.com SMBBMC Admission Notice 2025; SMBBMC Official Postgraduate Admission Advertisement
+— Ref No. F-SMBBMCL/(P.Gs)/2024-25/3605-06
+The following FCPS-II postgraduate training programs are offered at SMBBMC Lyari and Sindh
+Government Lyari General Hospital: FCPS-II in Pediatrics, FCPS-II in Medicine (Internal Medicine),
+FCPS-II in General Surgery, FCPS-II in Obstetrics and Gynaecology, FCPS-II in Anaesthesiology, and
+FCPS-II in Thoracic Surgery.
+Source: SMBBMC Official Postgraduate Admission Advertisement dated May 29, 2025 (Ref:
+F-SMBBMCL/(P.Gs)/2024-25/3605-06); Ilmkidunya.com SMBBMC Profile; GoTest.com.pk SMBBMC Programs
+The following MCPS postgraduate training programs are offered: MCPS in Paediatrics and MCPS in
+Obstetrics and Gynaecology.
+Source: Eduvision.edu.pk — SMBBMC FCPS MCPS Admission Notice 2025; SMBBMC Official Postgraduate
+Admission Advertisement 2025
+SMBBMC also offers clinical learning programs across nearly all medical and surgical specialty fields,
+including Gynaecology Oncology, Laparoscopic Surgery, and General Surgery, under the supervision of
+experienced faculty.
+Source: GoTest.com.pk — SMBBMCL Karachi Merit List Page 2024
+SECTION 5: DEPARTMENTS
+SMBBMC has established the following academic departments forming the foundation of its
+undergraduate medical teaching:
+Source: Wikipedia — Shaheed Mohtarma Benazir Bhutto Medical College Lyari (citing archived SMBBMC official
+introduction page)
+Department of Anatomy — covers gross anatomy, histology, and embryology as taught in the
+pre-clinical years of MBBS.
+Source: Wikipedia — SMBBMC Lyari
+Department of Physiology — covers human physiology and is part of the pre-clinical MBBS curriculum.
+Source: Wikipedia — SMBBMC Lyari
+
+Department of Biochemistry — covers medical biochemistry as part of the first and second year MBBS
+curriculum.
+Source: Wikipedia — SMBBMC Lyari
+Department of Pathology — covers general and systemic pathology and is integral to the para-clinical
+phase of MBBS.
+Source: Wikipedia — SMBBMC Lyari
+Department of Forensic Medicine — covers medicolegal topics and forensic pathology.
+Source: Wikipedia — SMBBMC Lyari
+Department of Pharmacology — covers drug mechanisms, pharmacokinetics, and clinical
+pharmacology.
+Source: Wikipedia — SMBBMC Lyari
+Clinical departments are operational through the attached Lyari General Hospital, covering Medicine,
+Surgery, Paediatrics, Obstetrics and Gynaecology, Anaesthesiology, Thoracic Surgery, Radiology, and
+other specialties. The hospital also hosts an Institute of Cardiology.
+Source: Wikipedia — SMBBMC Lyari; SMBBMC Postgraduate Admission Advertisement 2025; Ilmkidunya.com
+SMBBMC Profile
+SECTION 6: TEACHING HOSPITAL
+The primary affiliated teaching hospital of SMBBMC is Lyari General Hospital, officially known as the
+Lyari General Postgraduate Medical Centre. It is a government hospital located alongside the college on
+Tennery Road, Lyari, Karachi.
+Source: Wikipedia — SMBBMC Lyari; SMBBMC Official Website About Page
+Lyari General Hospital is equipped with a mortuary, lecture rooms, and a well-stocked medical library. It
+serves as both a training ground for undergraduate and postgraduate medical students and a
+healthcare provider for the local community of Lyari.
+Source: Ilmkidunya.com SMBBMC Profile
+The hospital hosts an Institute of Cardiology as part of its facilities, providing specialized cardiovascular
+care and training.
+Source: Wikipedia — SMBBMC Lyari
+Postgraduate training programs (FCPS-II and MCPS) are jointly conducted at Shaheed Mohtarma
+Benazir Bhutto Medical College Lyari and Sindh Government Lyari General Hospital under CPSP
+supervision.
+Source: SMBBMC Official Postgraduate Admission Advertisement, May 2025 (Ref:
+F-SMBBMCL/(P.Gs)/2024-25/3605-06)
+
+SECTION 7: ADMISSION ELIGIBILITY CRITERIA
+Eligibility criteria at SMBBMC vary by program. All programs require applicants to meet minimum
+academic qualifications and pass a mandatory entry test.
+Source: Ilmkidunya.com SMBBMC Admission Guide; MedicalStudy.pk SMBBMU Admission Guide
+For MBBS: Applicants must have completed FSc Pre-Medical or an equivalent qualification with a
+minimum of 60% marks from a recognized Board of Education. A-Level applicants must provide an
+IBCC equivalence certificate. The age requirement is 17 to 25 years at the time of application.
+Applicants must have a valid MDCAT score as per PMC regulations. Sindh domicile and Permanent
+Residence Certificate (PRC) are required for all public sector seats.
+Source: Ilmkidunya.com SMBBMC Admission Details; MedicalStudy.pk SMBBMU Admission Guide; SMBBMU
+Larkana Admissions Page
+For BDS: The eligibility criteria mirror those of MBBS — minimum 60% in FSc Pre-Medical, age 17 to 25
+years, valid MDCAT score, and Sindh domicile/PRC for public sector seats.
+Source: Ilmkidunya.com SMBBMC Admission Details; DUHS Admissions Portal — BDS Merit Lists 2025-26
+For BS Nursing (BSN) Generic Program: Applicants must have passed Matric (SSC) in Science group
+with Physics, Chemistry, and Biology as compulsory subjects from any Sindh Secondary Board, with a
+minimum of 55% marks. OR applicants must have passed FSc Pre-Medical with Physics, Chemistry,
+and Biology with a minimum of 50% marks from any Sindh or Federal Board. Only candidates with
+Sindh domicile are eligible. For the Lyari Quota seats, the candidate must hold Domicile/PRC
+specifically from Lyari Town.
+Source: SMBBMC Official BSN Admission Advertisement 2025 (Result.pk); Result.pk — SMBBMC BSN Admission
+Details 2025
+For Overseas Pakistani applicants: Must provide proof that their father, mother, or parents are working
+outside Pakistan. They may also apply under the UEAP/UDP/Overseas Self-Finance category.
+Source: SMBBMU Larkana Admissions Page — Overseas Eligibility Criteria
+For Foreign National applicants: Nomination by the Higher Education Commission (HEC), Islamabad is
+required. Applicants must also submit SSC/O-Level and HSC/A-Level equivalence certificates from
+IBCC.
+Source: SMBBMU Larkana Admissions Page — Foreign National Eligibility Criteria
+For FCPS-II Postgraduate Programs: Applicants must hold an MBBS degree from a university
+recognized and listed in Schedule II of the Pakistan Medical Commission (PMC). A valid PMC
+registration as a medical practitioner is mandatory. Completion of one year of resident house job in a
+PMC-recognized institution is required. For FCPS-II specifically, the candidate must have passed
+FCPS-I in the relevant specialty prior to applying.
+Source: SMBBMC Official Postgraduate Admission Advertisement, May 29, 2025 (Ref:
+F-SMBBMCL/(P.Gs)/2024-25/3605-06)
+For MCPS Postgraduate Programs: Applicants must hold MBBS, have valid PMC registration, and have
+completed one year of house job in relevant departments from a PMC-recognized institution.
+
+Source: SMBBMC Official Postgraduate Admission Advertisement, May 2025
+SECTION 8: ENTRY TESTS
+An entry test is mandatory for all undergraduate programs at SMBBMC. Admission is not possible
+without passing the relevant entry test.
+Source: SMBBMU Larkana Admissions Page; MedicalStudy.pk SMBBMU Admission Guide
+For MBBS and BDS: The National MDCAT (Medical and Dental College Admission Test) is mandatory.
+In Sindh Province, the MDCAT is administered by IBA Sukkur on behalf of the Pakistan Medical
+Commission (PMC). The test covers Biology, Chemistry, Physics, English, and Logical Reasoning in a
+200 MCQ format over 150 minutes, with no negative marking. The minimum passing score for MBBS is
+65% (130 out of 200) and for BDS is 55% (110 out of 200) as per PMC regulations.
+Source: PMC MDCAT Regulations; MedicalStudy.pk SMBBMU Admission Guide
+For BS Nursing (BSN): The entry test is administered by the National Testing Service (NTS).
+Candidates must register at www.nts.org.pk and pay a separate NTS test fee of Rs. 800 through
+nominated bank branches or online. NTS will issue admit cards by post or for download on the NTS
+website. Candidates are required to achieve a minimum passing score to be eligible for merit
+consideration.
+Source: SMBBMC Official BSN Admission Advertisement 2025; Result.pk — SMBBMC BSN Admission 2025
+Appearance in the NTS or MDCAT entry test does not guarantee admission. Final admission decisions
+are based on the merit list prepared after original document verification.
+Source: SMBBMC Official BSN Admission Advertisement 2025
+SECTION 9: SEAT CATEGORIES & DISTRICT TAGGING
+SMBBMC Lyari participates in the centralized Sindh Province public sector MBBS and BDS admission
+system. Candidates applying for SMBBMC Lyari are automatically included on the merit lists of DUHS
+and JSMU (for Karachi division seats) and LUMHS and SMBBMU Larkana (for interior Sindh reserved
+seats).
+Source: SMBBMU Larkana Admissions Page; DUHS Admissions Portal 2025-26 — SMBBMC Merit List Notices
+Candidates are required to fill only ONE application form for MBBS and BDS across all seat categories
+— general merit, merit-cum-choice, UEAP/UDP/Overseas self-finance, and disabled seats. No separate
+form is needed for each category.
+Source: SMBBMU Larkana Admissions Page — Admission Instructions
+All seats in various districts are open for competition within the same district. Competition takes place
+between candidates of the same district, meaning a candidate from one district does not compete with a
+candidate from another district. No candidate shall be denied admission on the ground of gender,
+religion, color, or caste.
+
+Source: SMBBMU Larkana Admissions Page — Admission Policy
+Reserved seats for Interior Sindh are available at SMBBMC Lyari for candidates from the following
+divisions: Sukkur Division, Shaheed Benazirabad Division, Mirpurkhas Division, Larkana Division, and
+Hyderabad Division. Separate final merit lists for each of these divisions were published for Session
+2025-26.
+Source: DUHS Admissions Portal 2025-26 — Final Merit Lists for SMBBMC Lyari Interior Sindh Reserved Seats
+A special Lyari Quota exists for BSN admissions, which reserves dedicated seats specifically for
+candidates holding Domicile/PRC from Lyari Town.
+Source: SMBBMC Official BSN Admission Advertisement 2025; Result.pk SMBBMC BSN 2025
+A disabled seat category is also available for MBBS in Sindh Province public sector institutions,
+including SMBBMC. Candidates must submit a Certificate of Disability from the Department of Social
+Welfare, Government of Sindh, or Civil Services Hospital.
+Source: SMBBMU Larkana Admissions Page — Disabled Candidates Criteria; DUHS Admissions Portal — Disabled
+Seat Notice 2025-26
+SECTION 10: APPLICATION PROCEDURE
+For MBBS and BDS, online applications are submitted through the SMBBMU Larkana admissions portal
+at admissions.smbbmu.edu.pk or the affiliated portal (admission.lumhs.edu.pk/portal/ for certain
+sessions). Candidates must create an account, fill in personal and academic details, select the program
+and seat category, upload documents, and pay the processing fee.
+Source: SMBBMU Larkana Admissions Page; SMBBMU Larkana Admissions Announcement for MBBS at Lyari 2025
+The application processing fee is Rs. 2,500 (Rupees Two Thousand Five Hundred only), which is
+non-refundable. This fee covers both the entry test and processing charges.
+Source: SMBBMU Larkana Admissions Page — Application Fee Notice
+For BSN admissions, hard copy application forms must be submitted to the Admin Block, SMBBMC
+Lyari, Karachi. Candidates must also separately register with NTS at www.nts.org.pk and pay Rs. 800
+as the NTS test fee. Late or incomplete application forms will not be accepted.
+Source: SMBBMC Official BSN Admission Advertisement 2025; Result.pk SMBBMC BSN 2025
+Application forms and the prospectus can also be obtained through designated TCS (The Courier
+Service) outlets, as per the admission procedure published by SMBBMU.
+Source: SMBBMU Larkana Admissions Page
+Any candidate found using Domicile or PRC of more than one district or province in Pakistan will be
+disqualified from admission in any medical institution.
+Source: SMBBMU Larkana Admissions Page — Disqualification Notice
+
+SECTION 11: REQUIRED DOCUMENTS
+A complete application dossier for MBBS and BDS must include the following documents: Marksheet of
+Secondary School Certificate (SSC) or O-Level Equivalence Certificate from IBCC. Certificate and
+Marksheet of Higher Secondary Certificate (HSC) or A-Level Equivalence Certificate from IBCC with a
+minimum 60% marks. Valid MDCAT score certificate. CNIC or B-Form. Passport-sized photographs
+with the candidate's name written on the back. Domicile certificate and Permanent Residence
+Certificate (PRC) from the tagged district of Sindh.
+Source: SMBBMU Larkana Admissions Page — Required Documents List
+For Overseas Pakistani applicants, proof of the father's, mother's, or both parents' employment or
+residency outside Pakistan must be submitted.
+Source: SMBBMU Larkana Admissions Page
+For disabled seat applicants, a Certificate of Disability from the Department of Social Welfare,
+Government of Sindh, Karachi, or from Civil Services Hospital is required.
+Source: SMBBMU Larkana Admissions Page
+Affidavits and undertakings on Rs. 100 stamp paper are required at the time of admission offer — one
+declaring that the candidate has not acquired admission in any other Medical College or Medical
+University in the country, and another regarding non-production of false documents. Specimen affidavits
+are provided in the prospectus appendix.
+Source: SMBBMU Larkana Admissions Page — Documents Required at Admission
+In case of father being deceased, a death certificate of the father from NADRA must be submitted.
+Source: SMBBMU Larkana Admissions Page
+For FCPS-II and MCPS postgraduate programs, required documents include: MBBS degree certificate
+from a PMC-recognized institution, valid PMC registration certificate, house job completion certificate
+(one year), and FCPS-I pass certificate (for FCPS-II applicants only).
+Source: SMBBMC Official Postgraduate Admission Advertisement, May 2025
+SECTION 12: ADMISSION DEADLINES
+Deadlines vary by program and session. Applications received after the stated deadline are not
+entertained.
+Source: SMBBMC Official Admission Advertisements; SMBBMU Larkana Admissions Page
+For MBBS and BDS in the 2024-25 session, the application deadline was December 13, 2024. For the
+2025-26 session, the last date to apply for MBBS at SMBBMC Lyari for interior Sindh reserved seats
+was February 28, 2025.
+Source: Ilmkidunya.com SMBBMC Admission 2025; SMBBMU Larkana Admissions Announcement — February 2025
+
+For FCPS-II and MCPS postgraduate programs, Session 26-2025 was advertised in May 2025 with the
+relevant reference number F-SMBBMCL/(P.Gs)/2024-25/3605-06 dated May 29, 2025.
+Source: SMBBMC Official Postgraduate Admission Advertisement — May 29, 2025
+Students and applicants are advised to regularly monitor the official SMBBMC website
+(smbbmcl.edu.pk), SMBBMU Larkana admissions portal (admissions.smbbmu.edu.pk), and DUHS
+admissions portal (admissions.duhs.edu.pk) for updated deadlines each session.
+Source: SMBBMU Larkana Admissions Page; DUHS Admissions Portal
+SECTION 13: FEE STRUCTURE
+As a public sector government institution, SMBBMC charges subsidized fees significantly lower than
+private medical colleges. The fee structure is set by the Government of Sindh and is subject to revision
+by the university or provincial government at any time.
+Source: He.com.pk — SMBBMCL Fee Structure 2025; SMBBMC Admission Notices
+The application and entry test processing fee for MBBS and BDS is Rs. 2,500 (non-refundable), which
+covers both the entry test and processing charges.
+Source: SMBBMU Larkana Admissions Page
+For BSN admissions, a separate NTS entry test fee of Rs. 800 is payable to NTS at the time of
+registration, in addition to the college admission form processing fee.
+Source: SMBBMC Official BSN Admission Advertisement 2025
+Hostel fee components at SMBBMC, at the time of admission, include an annual admission fee of Rs.
+1,500; rent charges (including water and electricity) of Rs. 3,000 per year; an identity card charge of Rs.
+100 per year; and a maintenance and repair fee (non-government) of Rs. 2,000 per year. Students
+residing in the hostel are paid a stipend of Rs. 15,000 per semester based on punctuality and academic
+performance.
+Source: GoTest.com.pk — SMBBMC Programs and Fee Structure
+The complete and most current fee structure for all programs, including tuition fees, examination fees,
+laboratory and practical training fees, library charges, and administrative fees, is available in the official
+college prospectus. Students are strongly advised to obtain the latest prospectus from the college
+directly or through TCS outlets for accurate figures.
+Source: Ilmkidunya.com — SMBBMC Fee Structure 2025; SMBBMU Larkana Admissions Page
+No TA/DA (Travelling Allowance or Daily Allowance) is provided to candidates appearing in the
+pre-entry aptitude test.
+Source: SMBBMC Official BSN Admission Advertisement 2025
+SECTION 14: SCHOLARSHIPS & FINANCIAL AID
+
+SMBBMC, as a public sector institution, facilitates government-backed scholarship programs for its
+students. Two principal categories of scholarships are available: merit-based scholarships for students
+with excellent academic scores, and need-based scholarships for students from low-income or
+financially distressed backgrounds.
+Source: GoTest.com.pk — SMBBMC Lyari Admission Overview; SMBBMU Scholarship Policy
+The Sindh government manages and allocates funding for SMBBMC, which contributes to the
+subsidized nature of fees. Dedicated reserved seats and financial support mechanisms exist for
+students from interior Sindh districts.
+Source: He.com.pk — SMBBMCL Fee Structure 2025; SMBBMU Larkana Admissions Page
+BSN students may receive a stipend of Rs. 15,000 per semester, awarded based on punctuality and
+overall academic performance. This applies to students residing in the hostel or those meeting the
+stipend eligibility criteria set by the institution.
+Source: SMBBMC Official BSN Admission Advertisement 2025; Result.pk SMBBMC BSN 2025
+For further scholarship opportunities at the provincial and federal level applicable to SMBBMC students,
+including Ehsaas Undergraduate Scholarships and Zakat and Usher Department scholarships, students
+should consult the college administration and check provincial government announcements.
+Source: GoTest.com.pk SMBBMC Profile; SMBBMU Larkana Scholarship Section
+SECTION 15: FACILITIES
+SMBBMC provides modern academic facilities including well-equipped classrooms and lecture halls,
+pre-clinical and para-clinical laboratories, and a college library stocked with medical reference books
+and journals.
+Source: Ilmkidunya.com SMBBMC Profile; LearnoSpot.com SMBBMC Profile
+The attached Lyari General Hospital provides full clinical training facilities including inpatient wards,
+operation theatres, radiology, pathology labs, and outpatient departments across multiple specialties.
+The hospital also has an Institute of Cardiology.
+Source: Wikipedia — SMBBMC Lyari; SMBBMC Official About Page; SMBBMC Postgraduate Advertisement 2025
+Hostel accommodation is available for students at SMBBMC. Students residing in the hostel are
+required to pay applicable hostel fees at the time of admission. The hostel provides basic amenities.
+Source: GoTest.com.pk SMBBMC Profile — Hostel Fee Structure
+A transport facility is available for students. Transport fees are collected separately by the college.
+Source: Ilmkidunya.com SMBBMC Profile
+SMBBMC students participate in health promotion campaigns, community outreach programs, and
+public health initiatives serving the people of Lyari. The college places strong emphasis on
+community-oriented medical education.
+
+Source: SMBBMC Official Website About Page (smbbmcl.edu.pk/about.html); Ilmkidunya.com SMBBMC Profile
+SECTION 16: RECOGNITION & REGULATORY STATUS
+SMBBMC is a government medical college recognized by the Pakistan Medical Commission (PMC). It
+operates under the governance and funding of the Government of Sindh.
+Source: Ilmkidunya.com SMBBMC Profile; Wikipedia — SMBBMC Lyari
+For Karachi district MBBS and BDS admission purposes, SMBBMC is administered under the Sindh
+Province public sector medical university system, with DUHS and JSMU coordinating the merit lists for
+Karachi division candidates.
+Source: DUHS Admissions Portal 2025-26 — SMBBMC Merit Notices
+For interior Sindh reserved seat admissions to SMBBMC Lyari, the institution operates under SMBBMU
+Larkana's administrative umbrella.
+Source: SMBBMU Larkana Admissions Portal — MBBS at Lyari Notice, February 2025
+Postgraduate training programs at SMBBMC (FCPS-II and MCPS) are conducted under the approval
+and supervision of the College of Physicians and Surgeons Pakistan (CPSP).
+Source: SMBBMC Official Postgraduate Admission Advertisement, May 2025
+SECTION 17: CONTACT & ONLINE RESOURCES
+Official website: smbbmcl.edu.pk
+Source: Eduvision.edu.pk SMBBMC Profile; SMBBMC Admission Notices
+Physical address: Beside Lyari General Hospital, Tennery Road, Lyari, Karachi, Sindh, Pakistan. Postal
+Code: 75660.
+Source: Eduvision.edu.pk SMBBMC Profile
+Phone: 021-32540055 / 021-32540058. Email: smbbmclyari@gmail.com.
+Source: Eduvision.edu.pk SMBBMC Profile; Facebook Page of SMBBMC Lyari
+For MBBS and BDS admissions, also refer to the DUHS Admissions Portal at admissions.duhs.edu.pk
+and the SMBBMU Larkana Admissions Portal at admissions.smbbmu.edu.pk.
+Source: DUHS Admissions Portal; SMBBMU Larkana Admissions Portal
+Students and applicants are advised to always verify the latest information directly from the official
+SMBBMC website, the DUHS admissions portal, or by contacting the college admissions office.
+Deadlines, seat availability, and fee structures may be revised each academic session.
+Source: SMBBMC Official Website; SMBBMU Larkana Admissions Page — General Advisory
+
