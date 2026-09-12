@@ -1,5 +1,6 @@
 ﻿import os
 import re
+import json
 import streamlit as st
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
@@ -16,50 +17,54 @@ st.title("🎓 UniChalo AI Assistant")
 st.caption("Ask me anything about university admissions! (Powered by Qwen & Groq Cloud)")
 
 @st.cache_resource
-def load_and_chunk_knowledge_base():
+def load_knowledge_json():
     try:
-        with open("knowledge_base.txt", "r", encoding="utf-8") as f:
-            text = f.read()
-            # Split by double newlines to create natural paragraph chunks
-            raw_chunks = text.split("\n\n")
-            # Group chunks so they are roughly 500-1000 characters each
-            chunks = []
-            current_chunk = ""
-            for rc in raw_chunks:
-                current_chunk += rc + "\n"
-                if len(current_chunk) > 800:
-                    chunks.append(current_chunk)
-                    current_chunk = ""
-            if current_chunk:
-                chunks.append(current_chunk)
-            return chunks
+        with open("knowledge.json", "r", encoding="utf-8") as f:
+            return json.load(f)
     except FileNotFoundError:
-        return []
+        return {}
 
-knowledge_chunks = load_and_chunk_knowledge_base()
+knowledge_db = load_knowledge_json()
 
-def retrieve_relevant_context(query, chunks, top_k=8):
-    # Pure Python Keyword Search (0 RAM, 0 extra cost)
-    query_words = set(re.findall(r'\w+', query.lower()))
+def retrieve_relevant_context(query, knowledge):
+    query = query.lower()
     
-    # Ignore common stop words
-    stop_words = {"what", "is", "the", "a", "an", "for", "in", "of", "to", "and", "how", "are", "you"}
-    query_words = query_words - stop_words
+    # Map keywords to dictionary keys
+    mapping = {
+        'ned': 'ned',
+        'fast': 'fast',
+        'dow': 'dow',
+        'duhs': 'dow',
+        'jsmu': 'jsmu',
+        'sindh medical': 'jsmu',
+        'kmu': 'kmu',
+        'khyber': 'kmu',
+        'smbbmc': 'smbbmc',
+        'benazir': 'smbbmc',
+        'lyari': 'smbbmc',
+        'karachi': 'karachi',
+        'ku': 'karachi',
+        'sir syed': 'sir syed',
+        'ssuet': 'sir syed',
+        'dawood': 'dawood',
+        'duet': 'dawood'
+    }
     
-    if not query_words or not chunks:
-        return "General knowledge context."
-        
-    scores = []
-    for chunk in chunks:
-        chunk_words = set(re.findall(r'\w+', chunk.lower()))
-        score = sum(1 for word in query_words if word in chunk_words)
-        scores.append((score, chunk))
+    matched_keys = set()
+    for keyword, key in mapping.items():
+        # Use regex to match exact words (prevent matching 'ned' inside 'happened')
+        if re.search(rf'\b{keyword}\b', query):
+            matched_keys.add(key)
+            
+    # If a specific university is detected, return ONLY its full context!
+    if matched_keys:
+        contexts = []
+        for key in matched_keys:
+            contexts.append(f"--- Information about {key.upper()} University ---\n" + knowledge.get(key, ""))
+        return "\n\n".join(contexts)
     
-    # Sort descending by score
-    scores.sort(key=lambda x: x[0], reverse=True)
-    best_chunks = [chunk for score, chunk in scores[:top_k] if score > 0]
-    
-    return "\n\n---\n\n".join(best_chunks)
+    # If no university is detected, provide a generic prompt for the LLM
+    return "The user hasn't specified a university. Ask them which university they are interested in (e.g., NED, FAST, Karachi University, Dow, etc.)."
 
 @st.cache_resource
 def init_llm_chain():
@@ -67,7 +72,7 @@ def init_llm_chain():
     llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0)
     
     qa_prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are the UniChalo AI admission guide, a comprehensive assistant for MULTIPLE universities (including NED, FAST, IBA, KU, Dow, etc.). NEVER claim to be exclusively for one university. Use the following context to answer the user's question accurately. If the context doesn't contain the answer, just say you don't know. If asked about your identity, creator, or model, ALWAYS say 'I am the UniChalo AI Assistant.' Do NOT mention Alibaba, Qwen, Tongyi Lab, or Groq.\n\nContext:\n{context}"),
+        ("system", "You are the UniChalo AI admission guide, a comprehensive assistant for MULTIPLE universities. Use the following context to answer the user's question accurately. If the context says 'ask them which university', do exactly that. If the context doesn't contain the answer, just say you don't know based on the provided documents. If asked about your identity, creator, or model, ALWAYS say 'I am the UniChalo AI Assistant.' Do NOT mention Alibaba, Qwen, Tongyi Lab, or Groq.\n\nContext:\n{context}"),
         MessagesPlaceholder("chat_history"),
         ("human", "{input}")
     ])
@@ -83,7 +88,7 @@ if "chat_history" not in st.session_state:
 
 # Custom Runnable that fetches context before passing to LLM
 def invoke_with_context(user_input):
-    context = retrieve_relevant_context(user_input, knowledge_chunks)
+    context = retrieve_relevant_context(user_input, knowledge_db)
     
     chain_with_history = RunnableWithMessageHistory(
         llm_chain,
