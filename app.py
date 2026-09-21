@@ -1,4 +1,4 @@
-﻿import os
+import os
 import re
 import json
 import time
@@ -61,7 +61,14 @@ def retrieve_relevant_context(query, knowledge):
         'sir syed': 'sir syed',
         'ssuet': 'sir syed',
         'dawood': 'dawood',
-        'duet': 'dawood'
+        'duet': 'dawood',
+        'ubit': 'ubit',
+        'umaer basha': 'ubit',
+        'dcs uok': 'ubit',
+        'iba': 'iba',
+        'aku': 'aku',
+        'aga khan': 'aku',
+        'agakhan': 'aku'
     }
     
     matched_keys = set()
@@ -112,7 +119,7 @@ def init_llm_chain():
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system", (
             "You are the UniChalo AI admission guide, an expert assistant for university admissions in Pakistan "
-            "(including NED, FAST, DUHS/Dow, Karachi University, Dawood, SSUET, JSMU, KMU, SMBBMC, etc.).\n\n"
+            "(including NED, FAST, DUHS/Dow, Karachi University, Dawood, SSUET, JSMU, KMU, SMBBMC, UBIT, IBA, AKU, etc.).\n\n"
             "INSTRUCTIONS:\n"
             "1. Answer clearly, accurately, and concisely based ONLY on the provided Context below.\n"
             "2. If the context does not contain the answer, politely state that you do not have that specific information in your records.\n"
