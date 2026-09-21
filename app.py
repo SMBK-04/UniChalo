@@ -114,7 +114,8 @@ def retrieve_relevant_context(query, knowledge):
 @st.cache_resource
 def init_llm_chain():
     # max_retries handles transient cloud network blips right after waking up
-    llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0, max_retries=3, request_timeout=30)
+    # max_tokens=600 ensures requests never exceed Groq's output tokens per minute (OTPM) rate limit
+    llm = ChatGroq(model="qwen/qwen3.8-27b", temperature=0, max_tokens=600, max_retries=3, request_timeout=30)
     
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system", (
@@ -143,6 +144,10 @@ if "chat_history" not in st.session_state:
 def invoke_with_context(user_input):
     context = retrieve_relevant_context(user_input, knowledge_db)
     
+    # Trim chat history to last 6 messages to prevent context ballooning and rate limit overruns
+    if len(st.session_state.chat_history.messages) > 6:
+        st.session_state.chat_history.messages = st.session_state.chat_history.messages[-6:]
+        
     chain_with_history = RunnableWithMessageHistory(
         llm_chain,
         lambda session_id: st.session_state.chat_history,
