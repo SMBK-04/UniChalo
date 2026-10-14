@@ -16,7 +16,6 @@ st.set_page_config(page_title="UniChalo AI", page_icon="🎓")
 st.title("🎓 UniChalo AI Assistant")
 st.caption("Ask me anything about university admissions! (Powered by Qwen & Groq Cloud)")
 
-@st.cache_resource
 def load_knowledge():
     try:
         with open("knowledge.json", "r", encoding="utf-8") as f:
@@ -157,8 +156,8 @@ def retrieve_relevant_context(query, knowledge, chat_history=None):
                 scored_sections.append((score, title, content))
                 
             scored_sections.sort(key=lambda x: x[0], reverse=True)
-            # Retrieve up to top 3 sections if they have relevant matches
-            best = [f"### {t}\n{c}" for s, t, c in scored_sections[:3] if s > 0]
+            # Retrieve up to top 5 sections with positive relevance score
+            best = [f"### {t}\n{c}" for s, t, c in scored_sections[:5] if s > 0]
             if not best and sections:
                 best = [f"### {sections[0][0]}\n{sections[0][1]}"]
             
@@ -178,9 +177,9 @@ def init_llm_chain():
             "You are the UniChalo AI admission guide, an expert assistant for university admissions in Pakistan "
             "(including NED, FAST, DUHS/Dow, Karachi University, Dawood, SSUET, JSMU, KMU, SMBBMC, UBIT, IBA, AKU, etc.).\n\n"
             "INSTRUCTIONS:\n"
-            "1. Answer clearly, accurately, and concisely based ONLY on the provided Context below.\n"
+            "1. Answer clearly, accurately, and thoroughly using the facts, fees, test patterns, and criteria provided in the Context below.\n"
             "2. If the user mentions one or more universities without a specific question (e.g. 'AKU', 'IBA', 'UBIT', or 'IBA AKU UBIT', 'do you have information of these universities'), confirm that you have full admission information for them, give a brief 1-2 sentence introduction for each from the context, and invite the user to ask about programs, eligibility, entry tests, or fee structures.\n"
-            "3. If the context does not contain the answer, politely state that you do not have that specific information in your records.\n"
+            "3. Look carefully across all sections in the Context before claiming information is missing. Only state that you do not have specific information if the provided Context genuinely lacks any mention of it.\n"
             "4. If the context says 'NO_UNI_DETECTED', greet the user warmly and ask which university they would like information about.\n"
             "5. Never hallucinate or mix up details between different universities.\n"
             "6. If asked about your identity, ALWAYS state you are the 'UniChalo AI Assistant'. Do NOT mention Groq, Qwen, Alibaba, or underlying models.\n\n"
@@ -239,6 +238,8 @@ with st.sidebar:
     if st.button("🗑️ Clear Chat History"):
         st.session_state.messages = []
         st.session_state.chat_history = ChatMessageHistory()
+        st.cache_resource.clear()
+        st.cache_data.clear()
         st.rerun()
 
 if "messages" not in st.session_state:
