@@ -1,0 +1,37 @@
+﻿name: Keep UniChalo Awake
+
+on:
+  schedule:
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ping-and-keep-alive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ping UniChalo Streamlit App
+        run: |
+          echo "Sending keep-alive request to UniChalo..."
+          STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" https://unichalo.streamlit.app/)
+          echo "Response code: $STATUS_CODE"
+
+      - name: Record Activity Entry
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          echo "Last keep-alive ping: $TIMESTAMP - Status: OK" >> keep_alive_log.txt
+          tail -n 50 keep_alive_log.txt > temp_log.txt && mv temp_log.txt keep_alive_log.txt
+
+      - name: Commit activity entry
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Keep-Alive"
+          git add keep_alive_log.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: automated keep-alive activity update [skip ci]"
+          git push
