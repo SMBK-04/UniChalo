@@ -1,2 +1,2 @@
 # UniChalo
-AI powered career guidance app
+AI powered career guidance Chatbot
