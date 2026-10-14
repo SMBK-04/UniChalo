@@ -36,7 +36,7 @@ def extract_sections(text):
         if line.startswith("Source:"):
             continue
         is_heading = (
-            bool(re.match(r'^(SECTION\s+\d+|###?\s+|\d+(\.\d+)*\s+[A-Z])', line, re.IGNORECASE)) or
+            (bool(re.match(r'^(SECTION\s+\d+\b[^\.\?!]*$|###?\s+|\d+(\.\d+)*\s+[A-Z])', line, re.IGNORECASE)) and not line.endswith(('.', ':', ';', ','))) or
             (len(line) < 45 and not line.endswith(('.', ':', ';', ',')) and line[0].isupper() and not line.startswith('(') and sum(1 for c in line if c.isupper()) >= 2)
         )
         if is_heading:
